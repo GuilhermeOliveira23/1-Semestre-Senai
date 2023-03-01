@@ -94,9 +94,8 @@ section .ajuda-box p {
 }
 
 section .conhecimento-profundo {
-    position: absolute;
-    left: 50%;
-    bottom: 15%;
+    position: relative;    
+    bottom: 70px;
     
     display: flex;
     flex-direction: column;
