@@ -1,0 +1,34 @@
+/* Import font */
+@font-face {
+    font-family: "Bebas-Neue";
+    src: url(../assets/Bebas-Neue/BebasNeue-Regular.ttf);
+}
+
+
+
+
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body {
+    background-color: aqua;
+}
+
+
+
+.header-container{
+    width: 100%;
+    height: 90px;
+    background-color:#F9003D;
+    ;
+ }   
+header .nav{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row 
+}
+    
+
+ 
