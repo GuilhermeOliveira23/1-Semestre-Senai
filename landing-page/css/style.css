@@ -1,67 +1,181 @@
-/* Import font */
-
-@font-face {
-    font-family: "Bebas-Neue";
-    src: url(../assets/fonts/Bebas-Neue/BebasNeue-Regular.ttf);
-}
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-.layout-grid {
-    width: 100%;
-    height: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-body {
-    background-color: #080324;
-}
-
-header {
-    width: 100%;
-    height: 60px;
-    background-color: #F9003D;
-}
-
-header .header-flex {
-    display: flex;
-    justify-content: flex-end;
-}
-
-header nav {
-    width: 600px;
-    display: flex;
-    justify-content: space-between;
-}
-
-header nav a {
-    border: 2px normal black;
-    padding-top: 15px;
-    font-family: 'Bebas-Neue';
-    color: white;
-}
-
-section .imagem {
-    width: 100%;
-    height: 7400px;
-    background-image: url(../assets/images/imagem-fundo-banner.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-section .container-titulo {
-    border: 2px normal red;
-    color: white;
-    width: 400px;
-    height: 150px;
-    background-color: tomato;
-}
-
-div .container-titulo-flex {
-    display: flex;
-}
+    /* Import font */
+    
+    @font-face {
+        font-family: 'sans';
+        src: url(../assets/fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+    }
+    
+    @font-face {
+        font-family: 'Courier';
+        src: url(../assets/fonts/Courier-Prime/CourierPrime-Regular.ttf);
+    }
+    
+    @font-face {
+        font-family: "Bebas-Neue";
+        src: url(../assets/fonts/Bebas-Neue/BebasNeue-Regular.ttf);
+    }
+    
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .layout-grid {
+        width: 100%;
+        height: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    
+    body {
+        background-color: #080324;
+    }
+    
+    header {
+        width: 100%;
+        height: 60px;
+        background-color: #F9003D;
+    }
+    
+    header .header-flex {
+        display: flex;
+        justify-content: flex-end;
+    }
+    
+    header nav {
+        width: 600px;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    header nav a {
+        border: 2px normal black;
+        padding-top: 15px;
+        font-family: 'Bebas-Neue';
+        color: white;
+    }
+    
+    h1 {
+        color: white;
+    }
+    
+    .titulo {
+        color: white;
+        background-image: url(../assets/images/imagem-fundo-banner.png);
+        width: 100%;
+        height: 740px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    
+    .titulo-h1 {
+        font-family: 'Bebas-Neue';
+        padding-top: 200px;
+        font-size: 96px;
+        padding-left: 90px;
+    }
+    
+    .titulo-diferente {
+        text-transform: uppercase;
+        color: red;
+        font-family: 'Courier';
+        padding-left: 100px;
+    }
+    
+    .mouse {
+        padding-left: 100px;
+        padding-top: 30px;
+    }
+    
+    .banner-info {
+        background-image: url(assets/images/imagem-fundo-endereco.png);
+        width: 100%;
+        height: 720px;
+    }
+    
+    .tit {
+        display: flex;
+        align-items: center;
+        color: white;
+    }
+    
+    .img-title {
+        padding-top: 100px;
+        padding-left: 120px;
+    }
+    
+    .img-about {
+        padding-top: 100px;
+    }
+    
+    section {
+        display: flex
+    }
+    
+    h2 {
+        color: white;
+    }
+    
+    .info {
+        padding-left: 50px;
+        padding-top: 120px;
+    }
+    
+    p {
+        max-width: 600px;
+        font-family: 'sans';
+        font-size: 18px;
+        padding: 50px;
+        color: white;
+    }
+    
+    .titulo-sobre {
+        color: red;
+        font-size: 64px;
+        font-family: 'Bebas-Neue';
+        padding-left: 50px;
+    }
+    
+    h2 {
+        text-transform: uppercase;
+        font-size: 24px;
+        font-family: 'Courier';
+        padding-top: 150px;
+        padding-left: 50px;
+        padding-bottom: 50px;
+    }
+    
+    .sobre-alunos {
+        font-family: 'Bebas-Neue';
+        font-size: 64px;
+        color: orange;
+        padding-left: 50px;
+    }
+    
+    section .equipes {
+        width: 100%;
+        border: 2px normal red;
+        display: flex;
+    }
+    
+    .caixas {
+        width: 100px;
+        background-color: red;
+        margin: 100px 150px 100px 150px;
+        padding-top: 50px;
+        padding-right: 200px;
+        border: 5px normal black;
+    }
+    
+    .caixas-flex {
+        display: flex;
+    }
+    
+    .grid-layout {
+        width: 100px;
+        display: flex;
+    }
+    
+    .text-above {}
