@@ -1,0 +1,131 @@
+/* Imports de fonts */
+@font-face {
+    font-family: "interbold";
+    src: url(assets\fonts\Inter,Titillium_Web\Inter\Inter-VariableFont_slnt,wght.ttf);
+}
+
+@font-face {
+    font-family: "titiliumblack";
+    src: url(assets/fonts\Inter,Titillium_Web/Titillium_Web/TitilliumWeb-Black.ttf);
+}
+
+@font-face {
+    font-family: "titiliumbold";
+    src: url(assets/fonts/Inter,Titillium_Web/Titillium_Web/TitilliumWeb-Bold.ttf);
+}
+
+@font-face {
+    font-family: "titiliumregular";
+    src: url(assets/fonts/Inter,Titillium_Web/Titillium_Web/TitilliumWeb-Regular.ttf);
+}
+
+@font-face {
+    font-family: "quicksand";
+    src: url(assets/fonts/Inter,Titillium_Web/Quicksand/Quicksand-VariableFont_wght.ttf);
+}
+
+
+/* Reset CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+body {
+    color: white;
+
+}
+
+header {
+    background-color: #1B1426;
+    border: 2px solid black;
+    width: 1440px;
+    height: 140px;
+}
+
+.header-top {
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    height: 40px;
+}
+
+.header-bottom {
+    display: flex;
+    align-items: center;
+
+    border: 2px solid black;
+    height: 100px;
+}
+.midias-sociais{
+    display: flex;
+    
+    
+    
+
+}
+.mail{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    border: 2px solid white
+    
+}
+.telefone{
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+    border: 2px solid white
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:915px) {
+
+    body {
+        background-color: red;
+    }
+}
