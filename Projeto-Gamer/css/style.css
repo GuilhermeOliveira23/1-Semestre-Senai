@@ -1,27 +1,27 @@
 /* Imports de fonts */
 @font-face {
     font-family: "interbold";
-    src: url(assets\fonts\Inter,Titillium_Web\Inter\Inter-VariableFont_slnt,wght.ttf);
+    src: url(../assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf);
 }
 
 @font-face {
     font-family: "titiliumblack";
-    src: url(assets/fonts\Inter,Titillium_Web/Titillium_Web/TitilliumWeb-Black.ttf);
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf);
 }
 
 @font-face {
     font-family: "titiliumbold";
-    src: url(assets/fonts/Inter,Titillium_Web/Titillium_Web/TitilliumWeb-Bold.ttf);
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf);
 }
 
 @font-face {
     font-family: "titiliumregular";
-    src: url(assets/fonts/Inter,Titillium_Web/Titillium_Web/TitilliumWeb-Regular.ttf);
+    src: url(../assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf);
 }
 
 @font-face {
     font-family: "quicksand";
-    src: url(assets/fonts/Inter,Titillium_Web/Quicksand/Quicksand-VariableFont_wght.ttf);
+    src: url(../assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf);
 }
 
 
@@ -33,6 +33,17 @@
     box-sizing: border-box;
 
 
+
+}
+.layout-grid{
+    border: 2px solid white;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    
+    
+    
 }
 
 body {
@@ -40,26 +51,29 @@ body {
 
 }
 
-header {
+header {    
     background-color: #1B1426;
     border: 2px solid black;
-    width: 1440px;
-    height: 140px;
+    width: 100%;
+    height: 60px;
 }
 
 .header-top {
     display: flex;
     align-items: center;
-    border: 2px solid black;
+    border: 2px solid white;
     height: 40px;
 }
 
 .header-bottom {
     display: flex;
     align-items: center;
+    padding-top:15px;
+    justify-content: center;
+    
 
-    border: 2px solid black;
-    height: 100px;
+    border: 2px solid white;
+    
 }
 .midias-sociais{
     display: flex;
@@ -81,6 +95,46 @@ header {
     width: 150px;
     border: 2px solid white
 }
+
+header .header-top{
+    display: none;
+
+}
+header .header-bottom nav{
+    display: none;
+}
+header .header-bottom .userui{
+    display: none
+}
+header nav{
+    position: fixed;
+    top:60px;
+    left: 0;
+    width:80vw;
+    height: 100vh;
+    background-color: grey;
+}
+main{
+    background-image: url(../assets/imagens/valorant-pergunte-3-scaled\ 1.svg);
+    width: 1800px;
+    height: 606px;
+    display: flex;
+    
+}
+.titulo-principal{
+    margin-left:100px;
+    margin-top: 20px;
+    font-family: "interbold" ;
+}
+
+
+
+
+
+
+
+
+
 
 
 
