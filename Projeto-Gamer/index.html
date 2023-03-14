@@ -46,13 +46,15 @@
 
         <div class="header-bottom">
             <div class="layout-grid">
-                <img src="./assets/icons/VectorHamburguer.svg" alt="icone de navegacao">
+
+                <img onclick="mostrarMenu()" src="./assets/icons/VectorHamburguer.svg" alt="icone de navegacao">
 
                 <img class="logotipo-gamer" src="./assets/icons/logotipo-gamer.svg" alt="logotipo gamer">
-                <img src="./assets/icons/trespontos.svg" alt="icone 3 pontinhos, abre e fecha o menu usarios">
+                <img onclick="mostrarUi()" src="./assets/icons/trespontos.svg"
+                    alt="icone 3 pontinhos, abre e fecha o menu usarios">
             </div>
 
-            <nav class="links">
+            <nav class="links" id="menu">
                 <a href="">Inicio</a>
                 <a href="">Jogadores</a>
                 <a href="">Equipes</a>
@@ -80,12 +82,13 @@
 
             </nav>
 
-            <div class="userui">
+
+            <div class="userui" id="userui">
                 <a href=""><img src="./assets/icons/VectorA.svg" alt="usuario"></a>
                 <a href=""><img src="./assets/icons/Vector B.svg" alt="bolsa(compra)"></a>
                 <a href=""><img src="./assets/icons/VectorC.svg" alt="pesquisar"></a>
-
             </div>
+
 
         </div>
 
@@ -103,21 +106,21 @@
 
 
         <section class="articles">
-            
+
             <article class="box-gradient">
                 <div class="button-article">
-                <h1>Mais Popular</h1>
-            </div>
+                    <h1>Mais Popular</h1>
+                </div>
 
             </article>
         </section>
 
         <section class="articles1">
-            
+
             <article class="box-gradient">
                 <div class="button-article">
-                <h1>Ultimo jogo</h1>
-            </div>
+                    <h1>Ultimo jogo</h1>
+                </div>
 
             </article>
         </section>
@@ -125,20 +128,58 @@
 
         <section class="info-page">
 
-            <article class="info-box">
-                
+            <div class="img-big">
 
+                <article>
+
+
+                    <div>
+
+                        <img class="img3"src="./assets/imagens/lp-gamer-home_0000s_0005_Camada-61.svg" alt="">
+                        <h2 class="titleh2-box">20 JOGOS DIFERENTES</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae provident perferendis nisi
+                            maxime culpa totam eligendi eveniet libero nulla, porro obcaecati corporis id deleniti
+                            possimus ad qui non! Qui, deleniti?</p>
+
+
+                    </div>
+
+
+                </article>
+            </div>
+            <div class="img-big2">
+                <article>
+
+
+                    <div>
+                        <img class="img1" src="./assets/imagens/lp-gamer-home_0000s_0004_Camada-62.svg" alt="">
+                        <h2 class="titleh2-box">53 PROFESSORES</h2>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed aspernatur fugit debitis.
+                            Labore laboriosam unde quis maxime. Id optio itaque rem perspiciatis est veritatis quidem
+                            saepe. Perferendis iste debitis distinctio.</p>
+
+                    </div>
+
+            </div>
             </article>
 
 
 
-            <article class="info-box">
 
-            </article>
 
 
         </section>
     </main>
+    <script>
+        function mostrarMenu() {
+            document.getElementById("menu").classList.toggle("mostrar-menu")
+
+
+        }
+        function mostrarUi() {
+            document.getElementById("userui").classList.toggle("mostrar-userui")
+        }
+    </script>
 
 </body>
 
