@@ -60,12 +60,13 @@ body {
 }
 
 header {
+    top: 0;
     background-color: #1B1426;
     position: fixed;
     border: 2px solid black;
     width: 100vw;
     height: 60px;
-    margin-bottom: 0;
+    
     z-index: 100;
 }
 
@@ -162,6 +163,8 @@ header .header-bottom nav>a {
 }
 
 .userui{
+    margin-right: 18px;
+
     position: fixed;
     top: 16vw;
     right:-70vw;
@@ -201,6 +204,7 @@ header .header-bottom nav {
     background-repeat: no-repeat;
     height: 606px;
     margin: 0;
+    position: relative;
 
 
 
@@ -216,6 +220,8 @@ header .header-bottom nav {
 }
 
 main {
+    max-width: 375px;
+    margin-top: 60px;
     background-color: #1B1426;
     height: 7000px;
     position:relative;
@@ -277,17 +283,40 @@ main {
 
 .box-gradient {
     display: flex;
+    background-image: linear-gradient(to right bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0.1));
+    
+    border-radius: 8px;
 
-
-    border: 2px solid yellow;
+    
     height: 50px;
-    width: 400px;
+    width: 335px;
 }
 
 .button-article {
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    background-color: #F9AA01;
+    height: 40px;
+    width: 150px;
+    transform: skew(-50deg);
     margin-left: 40px;
-    border: 2px solid red;
+    
     color: white;
+}
+.articles article div h1{
+    padding-top: 10px;
+    
+    transform: skew(+50deg)
+    
+    
+    
+
+}
+.articles1 article div h1{
+transform: skew(+50deg);
+padding-top:10px;
+
 }
 
 .info-page {
@@ -303,12 +332,14 @@ main {
 
 .img-big article div {
     
+    margin-left: 110px;
+    background-image: linear-gradient(to right bottom, rgba(63, 36, 105, 0.7), rgba(82, 19, 183, 0.4));
+    backdrop-filter: blur(45px);   
     
-    margin-top:100px;
-    margin-left:110px;
-    background-repeat: no-repeat;                   
-    border: 2px solid white;
-    width: 250px;
+    
+    background-repeat:no-repeat;                   
+    border-radius: 8px;
+    width: 270px;
     height: 300px;
     
     
@@ -327,32 +358,104 @@ main {
 
 
 
-.info-box2 div{
+.img-big2  article div{
     
-    margin-left:80px;
+    margin-top: 60px;
+    margin-left: -20px;
+    background-image: linear-gradient(to right bottom, rgba(63, 36, 105, 0.7), rgba(82, 19, 183, 0.4));
+    backdrop-filter: blur(45px);   
+    
+    
+    
     background-repeat: no-repeat;                   
-    border: 2px solid white;
-    width: 250px;
+    border-radius: 8px;
+    width: 270px;
     height: 300px;        
-    text-align: center;
+    text-align: justify;
     
+}
+.info-page .tituloh2 h2{
+    margin-left: 25px; 
+    margin-top: 50px;
+    font-size: 18px;
+    height: 40px;
+    width: 80%;
+    border-bottom:2px solid black;
+    display: flex;
+    text-transform: uppercase;
+    justify-content: center;
+    font-family: "titiliumblack";
+    
+
 }
 .img-big{
-    background-image: url(../assets/imagens/kiljoy.svg);
+    width: 350px;
+    border: 2px solid green;
+    margin-top: 100px;
+}
+.img-big article{
+    
+    margin-left: 5px;
+    background-image: url(../assets/imagens/kiljoy.png);
     height: 540px;
+    width: 300px;
     background-repeat: no-repeat;
+    border: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
 
+}
+
+.img-big2{
+    width: 320px;
+    
+    border: 2px solid green;
 }
 .img-big2 article{
-    margin-left:80px;
-    background-repeat: no-repeat;                   
-    border: 2px solid white;
-    width: 250px;
-    height: 300px;        
-    text-align: center;
+    
+    
+    background-image: url(../assets/imagens/lp-gamer-home_0000s_0000s_0002_lol.png);
+    height: 425px;
+    width:320px ;    
+    margin-left: 0px;
+    
+    display: flex;    
+    align-items: center;
+    border: 2px solid red;
+    background-repeat: no-repeat;
+}
+.img-big2 article div h2{
+     padding-left: 60px;
+}
+    
+.img-big2 article div img{
+    padding-left: 95px;
+}    
+
+
+.img-big2 article div p{
+    font-size: 13px ;
+    padding-left: 40px;
+    padding-bottom:40px ;
+    padding-right:40px ;
+    font-family: "quicksand";
 
 }
-.img-big2
+.img-big article div p{
+    font-size: 13px ;
+    padding-left: 15px;
+    width: 270px;
+    height: 100%;
+    font-family: "quicksand";
+}
+
+/* Tablets width >= */
+/* Desktop Width >= */
+
+
+
 
     
 
