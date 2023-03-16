@@ -35,10 +35,12 @@
 
 
 }
-.mostrar-userui{
+
+.mostrar-userui {
     right: 0 !important;
 }
-.mostrar-menu{
+
+.mostrar-menu {
     left: 0 !important;
 }
 
@@ -66,7 +68,7 @@ header {
     border: 2px solid black;
     width: 100vw;
     height: 60px;
-    
+
     z-index: 100;
 }
 
@@ -162,14 +164,14 @@ header .header-bottom nav>a {
 
 }
 
-.userui{
+.userui {
     margin-right: 18px;
 
     position: fixed;
     top: 16vw;
-    right:-70vw;
+    right: -70vw;
     border: 2px solid rgb(223, 98, 98);
-    height:24vh ;
+    height: 24vh;
     width: 20vw;
     background-image: linear-gradient(to right bottom, rgba(27, 20, 38, 0.7), rgba(27, 20, 38, 0.4));
     backdrop-filter: blur(45px);
@@ -178,12 +180,12 @@ header .header-bottom nav>a {
     align-items: center;
     justify-content: space-around;
     transition: right 0.4s;
-    
-    
-    
 
-    
-    
+
+
+
+
+
 
 }
 
@@ -223,8 +225,8 @@ main {
     max-width: 375px;
     margin-top: 60px;
     background-color: #1B1426;
-    height: 7000px;
-    position:relative;
+    height: 6500px;
+    position: relative;
 
 
 }
@@ -278,16 +280,16 @@ main {
     height: 190px;
     display: flex;
     align-items: flex-end;
-    
+
 }
 
 .box-gradient {
     display: flex;
     background-image: linear-gradient(to right bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0.1));
-    
+
     border-radius: 8px;
 
-    
+
     height: 50px;
     width: 335px;
 }
@@ -301,21 +303,19 @@ main {
     width: 150px;
     transform: skew(-50deg);
     margin-left: 40px;
-    
+
     color: white;
 }
-.articles article div h1{
-    padding-top: 10px;
-    
-    transform: skew(+50deg)
-    
-    
-    
 
+.articles article div h1 {
+    padding-top: 10px;
+
+    transform: skew(+50deg)
 }
-.articles1 article div h1{
-transform: skew(+50deg);
-padding-top:10px;
+
+.articles1 article div h1 {
+    transform: skew(+50deg);
+    padding-top: 10px;
 
 }
 
@@ -323,7 +323,7 @@ padding-top:10px;
     /* position: relative; */
     margin-top: 100px;
     width: 100%;
-    height: 2300px;
+    height: 1600px;
     background-color: #F9AA01;
     display: flex;
     flex-direction: column;
@@ -331,70 +331,75 @@ padding-top:10px;
 
 
 .img-big article div {
-    
+
     margin-left: 110px;
     background-image: linear-gradient(to right bottom, rgba(63, 36, 105, 0.7), rgba(82, 19, 183, 0.4));
-    backdrop-filter: blur(45px);   
-    
-    
-    background-repeat:no-repeat;                   
+    backdrop-filter: blur(45px);
+
+
+    background-repeat: no-repeat;
     border-radius: 8px;
     width: 270px;
     height: 300px;
-    
-    
-    text-align: center;
-    
-    
-    
-    
+
+
+    text-align: justify;
+
+
+
+
 }
-.titleh2-box{
-    margin-top:10px;
+
+.titleh2-box {
+    margin-top: 10px;
     font-size: 18px;
     width: 100%;
-    margin-bottom:20px
+    margin-bottom: 20px
 }
 
 
 
-.img-big2  article div{
-    
-    margin-top: 60px;
+.img-big2 article div {
+
+    margin-top: 100px;
     margin-left: -20px;
     background-image: linear-gradient(to right bottom, rgba(63, 36, 105, 0.7), rgba(82, 19, 183, 0.4));
-    backdrop-filter: blur(45px);   
-    
-    
-    
-    background-repeat: no-repeat;                   
+    backdrop-filter: blur(45px);
+
+
+
+    background-repeat: no-repeat;
     border-radius: 8px;
     width: 270px;
-    height: 300px;        
+    height: 300px;
     text-align: justify;
-    
+
 }
-.info-page .tituloh2 h2{
-    margin-left: 25px; 
+
+.info-page .tituloh2 h2 {
+    margin-left: 25px;
     margin-top: 50px;
     font-size: 18px;
     height: 40px;
     width: 80%;
-    border-bottom:2px solid black;
+    border-bottom: 2px solid black;
     display: flex;
     text-transform: uppercase;
     justify-content: center;
     font-family: "titiliumblack";
-    
+
 
 }
-.img-big{
+
+.img-big {
     width: 350px;
     border: 2px solid green;
     margin-top: 100px;
 }
-.img-big article{
-    
+
+
+.img-big article {
+
     margin-left: 5px;
     background-image: url(../assets/imagens/kiljoy.png);
     height: 540px;
@@ -408,48 +413,188 @@ padding-top:10px;
 
 }
 
-.img-big2{
-    width: 320px;
-    
+.img-big2 {
+    width: 370px;
+    margin-top: 80px;
+
     border: 2px solid green;
 }
-.img-big2 article{
-    
-    
+
+.img-big2 article {
+
+
+
     background-image: url(../assets/imagens/lp-gamer-home_0000s_0000s_0002_lol.png);
     height: 425px;
-    width:320px ;    
-    margin-left: 0px;
-    
-    display: flex;    
+    width: 320px;
+    margin-left: 40px;
+
+    display: flex;
     align-items: center;
     border: 2px solid red;
     background-repeat: no-repeat;
 }
-.img-big2 article div h2{
-     padding-left: 60px;
+
+.img-big2 article div h2 {
+    padding-left: 60px;
 }
-    
-.img-big2 article div img{
+
+.img-big2 article div img {
     padding-left: 95px;
-}    
+}
 
 
-.img-big2 article div p{
-    font-size: 13px ;
+.img-big2 article div p {
+    font-size: 13px;
     padding-left: 40px;
-    padding-bottom:40px ;
-    padding-right:40px ;
+    padding-bottom: 40px;
+    padding-right: 40px;
     font-family: "quicksand";
 
 }
-.img-big article div p{
-    font-size: 13px ;
-    padding-left: 15px;
+
+.img-big article div p {
+    font-size: 13px;
+    padding: 0px 40px 40px 40px;
+    text-transform: justify;
     width: 270px;
-    height: 100%;
+    height: auto;
     font-family: "quicksand";
 }
+
+.img-big article div h2 {
+    margin-left: 35px;
+}
+
+.img-big article div img {
+    margin-left: 90px;
+}
+
+/* News Page */
+.news-page {
+    background-image: url(../assets/imagens/backgrund_notícias.png),linear-gradient(to right bottom, rgba(41, 20, 57, 0.34), rgba(18, 1, 25, 0.79));
+    position: absolute;
+    width: 100%;
+    height: 3675px;
+    background-repeat: no-repeat;
+
+}
+
+.news-page article {
+    
+
+
+}
+
+.news-page .layout-grid {
+    margin-top: 60px;
+    margin-bottom: 100px;
+    width: 70%;
+    height: 80px;
+    margin-left: 55px;
+    justify-content: center;
+    align-items: center;
+    border: none;
+
+    border-bottom: #F9AA01 2px solid;
+}
+
+.news-page .noticias {
+    margin-top: 0px;
+    text-transform: uppercase;
+    font-family: "titiliumblack";
+    font-size: 18px;
+}
+
+.news-page article .box-newstxt {
+    background-image: linear-gradient(to right bottom, rgba(41, 20, 57, 0.34), rgba(18, 1, 25, 0.79));
+    width: 335px;
+    margin-top: -8px;
+    height: 213px;
+    text-align: justify;
+    border-radius: 8px;
+
+
+
+}
+
+.news-page article {
+    width: 340px;
+    margin-left: 18px;
+    margin-top: 30px;
+
+}
+
+.news-page article .box-newstxt p {
+    padding: 20px 20px 20px 20px;
+
+
+}
+
+.news-page article .box-newstxt h2 {
+    padding-top: 15px;
+    padding-left: 18px;
+
+}
+/* Footer */
+footer{
+    background-image:url(../assets/imagens/backgroung_footer.png) ;
+}
+footer .layout-grid{
+    margin-left: 18px;
+    
+}
+.logotipo-footer{
+    display: block;
+    text-align: center;
+}
+.logotipo-footer p{
+    text-align: justify;
+    padding: 30px 30px 30px 30px;
+    font-family: "quicksand";
+    font-size: 14px;
+}
+footer .links-uteis{
+    
+    border: 2px solid green;
+    margin-top: 50px
+}
+footer .links-uteis h1{
+    margin-left: 20px;
+    font-family: "titiliumblack";
+    font-size: 30px;
+    
+
+}
+footer .links-uteis p{
+    
+ 
+
+}
+footer .links-uteis .links01{
+    display: flex;
+    gap: 5px;
+    
+
+}
+
+.hr-teste{
+    margin-top: 9px;
+    height: 0;    
+    width: 8px;
+    border-color: #F9AA01;
+}
+.all-links{
+    display: flex;
+}
+
+
+
+
+
+
+
+
 
 /* Tablets width >= */
 /* Desktop Width >= */
@@ -457,7 +602,7 @@ padding-top:10px;
 
 
 
-    
+
 
 
 
