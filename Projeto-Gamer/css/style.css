@@ -304,18 +304,19 @@ main {
     transform: skew(-50deg);
     margin-left: 40px;
 
-    color: white;
+    color: black;
+    font-family: "titiliumbold";
 }
 
 .articles article div h1 {
-    padding-top: 10px;
+    padding-top: 5px;
 
     transform: skew(+50deg)
 }
 
 .articles1 article div h1 {
     transform: skew(+50deg);
-    padding-top: 10px;
+    padding-top: 5px;
 
 }
 
@@ -339,7 +340,7 @@ main {
 
     background-repeat: no-repeat;
     border-radius: 8px;
-    width: 270px;
+    width: 231px;
     height: 300px;
 
 
@@ -353,7 +354,7 @@ main {
 .titleh2-box {
     margin-top: 10px;
     font-size: 18px;
-    width: 100%;
+    /* width: 100%; */
     margin-bottom: 20px
 }
 
@@ -370,7 +371,7 @@ main {
 
     background-repeat: no-repeat;
     border-radius: 8px;
-    width: 270px;
+    width: 231px;
     height: 300px;
     text-align: justify;
 
@@ -436,43 +437,45 @@ main {
 }
 
 .img-big2 article div h2 {
-    padding-left: 60px;
+    padding-left: 37px;
 }
 
 .img-big2 article div img {
-    padding-left: 95px;
+    padding-left: 75px;
 }
 
 
 .img-big2 article div p {
     font-size: 13px;
-    padding-left: 40px;
-    padding-bottom: 40px;
-    padding-right: 40px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
     font-family: "quicksand";
 
 }
 
 .img-big article div p {
     font-size: 13px;
-    padding: 0px 40px 40px 40px;
-    text-transform: justify;
+    padding-right: 60px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
     width: 270px;
     height: auto;
     font-family: "quicksand";
 }
 
 .img-big article div h2 {
-    margin-left: 35px;
+    margin-left: 15px;
 }
 
 .img-big article div img {
-    margin-left: 90px;
+    margin-left: 70px;
 }
 
 /* News Page */
 .news-page {
-    background-image: url(../assets/imagens/backgrund_notícias.png),linear-gradient(to right bottom, rgba(41, 20, 57, 0.34), rgba(18, 1, 25, 0.79));
+    background-image: url(../assets/imagens/backgrund_notícias.png), linear-gradient(to right bottom, rgba(41, 20, 57, 0.34), rgba(18, 1, 25, 0.79));
     position: absolute;
     width: 100%;
     height: 3675px;
@@ -480,11 +483,7 @@ main {
 
 }
 
-.news-page article {
-    
-
-
-}
+.news-page article {}
 
 .news-page .layout-grid {
     margin-top: 60px;
@@ -536,69 +535,211 @@ main {
     padding-left: 18px;
 
 }
+
 /* Footer */
-footer{
-    background-image:url(../assets/imagens/backgroung_footer.png) ;
+footer {
+    background-image: url(../assets/imagens/backgroung_footer.png);
 }
-footer .layout-grid{
+
+footer .layout-grid {
     margin-left: 18px;
-    
+    border: none;
+    margin-top: 40px;
+
 }
-.logotipo-footer{
+
+.logotipo-footer {
     display: block;
     text-align: center;
 }
-.logotipo-footer p{
+
+.logotipo-footer p {
     text-align: justify;
     padding: 30px 30px 30px 30px;
     font-family: "quicksand";
     font-size: 14px;
 }
-footer .links-uteis{
-    
-    border: 2px solid green;
-    margin-top: 50px
+
+/* LINKS UTEIS */
+footer .links-uteis {
+
+
+
+    margin-top: 150px
 }
-footer .links-uteis h1{
+
+.links-uteis .hr-title {
+    width: 100px;
+}
+
+footer .links-uteis h1 {
     margin-left: 20px;
     font-family: "titiliumblack";
     font-size: 30px;
-    
+
 
 }
-footer .links-uteis p{
-    
- 
+
+footer .links-uteis p {
+    margin-bottom: 15px;
+    font-family: "titiliumbold";
+    font-size: 16px;
+
+
 
 }
-footer .links-uteis .links01{
+
+footer .links-uteis .links01 {
     display: flex;
     gap: 5px;
-    
+
 
 }
 
 
-.hr-teste{
-    margin-top: 9px;
-    height: 2px;    
-    width: 8px;
+.hr-teste {
+    margin-left: 10px;
+    margin-top: 12px;
+    height: 2px;
+    width: 10px;
     border-color: #F9AA01;
     background-color: #F9AA01;
 }
-.all-links{
+
+.all-links {
     display: flex;
     gap: 40px;
+    margin-left: 10px;
 }
-.hr-title{
+
+.hr-title {
     margin-left: 20px;
     width: 150px;
     height: 2px;
     border-color: #F9AA01;
     color: #F9AA01;
-    background-color: #F9AA01
+    background-color: #F9AA01;
+    margin-bottom: 40px;
 
 }
+
+/* CONTATOS */
+.contatos {
+    margin-top: 150px;
+}
+
+.contatos .tlt .hr-title {
+    margin-bottom: 40px;
+    margin-left: 0px;
+}
+
+.contatos .cont {
+    margin-left: 0px;
+    font-family: "titiliumblack";
+    font-size: 30px;
+}
+
+.contatos div h3 {
+    font-family: "titiliumbold";
+    font-size: 16px;
+    color: #F9AA01;
+
+
+}
+
+.contatos div {
+    margin-left: 20px;
+}
+
+.contatos .hr-title {
+    width: 100px;
+
+}
+
+/* NEWSLETTER */
+.newsletter {
+    margin-top: 150px
+}
+
+.newsletter .type-email {
+    background-image: linear-gradient(to right bottom, rgba(41, 20, 57, 0.34), rgba(18, 1, 25, 0.79));
+    width: 335px;
+    border: 2px white solid;
+    width: 90%;
+    height: 44px;
+    border-radius: 8px;
+
+
+}
+
+.newsletter .button-box {
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 285px;
+}
+
+.newsletter .two-boxes {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.newsletter .type-email p {
+    margin-top: 12.5px;
+    margin-left: 10px;
+    font-family: "quicksand";
+    font-size: 13px;
+}
+
+.title-newsletter h1 {
+    margin-top: 0px;
+    margin-left: 20px;
+    font-family: "titiliumblack";
+    font-size: 30px
+}
+
+
+.newsletter .button-box {
+    font-family: "titiliumbold";
+    font-size: 24px;
+    color: black;
+}
+
+.newsletter .hr-title {
+    width: 100px;
+}
+
+footer {
+    height: 100%;
+}
+
+.gradient-footer {
+    background-image: linear-gradient(to top bottom, rgba(8, 0, 0, 1), rgba(59, 3, 77, 0.03));
+
+}
+
+.button-top {
+    margin-top: 100px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 15px;
+}
+
+.copyright-box {
+    margin-top: 40px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.copyright {}
+
+
+
+/* Finish footer */
+
 
 
 
