@@ -578,14 +578,26 @@ footer .links-uteis .links01{
 
 }
 
+
 .hr-teste{
     margin-top: 9px;
-    height: 0;    
+    height: 2px;    
     width: 8px;
     border-color: #F9AA01;
+    background-color: #F9AA01;
 }
 .all-links{
     display: flex;
+    gap: 40px;
+}
+.hr-title{
+    margin-left: 20px;
+    width: 150px;
+    height: 2px;
+    border-color: #F9AA01;
+    color: #F9AA01;
+    background-color: #F9AA01
+
 }
 
 
