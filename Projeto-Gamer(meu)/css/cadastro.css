@@ -202,13 +202,14 @@ main{
     background-image: url(../assets/imagens/Banner_cadastro_de_Equipe.png);
     margin-top: 60px;
     position: relative;
-    height: 687px;
+    height: 1200px;
     position: absolute;
     width:100%;
     
 }
 .botao-login{
     margin-left: 34px;
+    
     
     width: 273px;
     height: 40px;
@@ -226,17 +227,27 @@ main{
     padding-left: 40px;
 }
 form{
+    margin-left: 30px;
     
     
     margin-bottom:40px
 
 }
 .usuario{
-    padding-left: 43px;
-    height: 60px;
-    display: flex;
-    align-items: center;
+    margin-bottom: 30px;
     
+    
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    gap: 10px;
+    background-color: transparent;
+    background-image: linear-gradient(to right, rgba(239, 239, 239, 0.6), rgba(239, 239, 239, 0.1));
+    width: 273px;
+    height: 40px;
+    padding: 5px 10px;
+    border-radius: 8px;
+    backdrop-filter: blur(10px);
     
     
     
@@ -244,26 +255,19 @@ form{
 }
 
 input{
+    border: 2px solid transparent;
     background-color: transparent;  
-    box-shadow: 1px 1px 10px black;
+    margin-top: -5px;
+    
+    
     width: 273px;
     height: 40px;
     border-radius: 8px;
     padding-left: 20px;
-    background-image: linear-gradient(to right bottom, rgba(255, 255, 255, 0.60), rgba(255, 254, 255, 0.10));
-    backdrop-filter: blur(45px);   
+       
     margin-left: -30px;
     z-index: 105;
     margin-left: -12px;
-    
-    border: 1px solid transparent;
-            background: 
-                /* content */
-                linear-gradient( to right bottom, rgba(239, 239, 239, 0.60), rgba(239, 239, 239, 0.10) ) content-box, 
-                /* border */
-                linear-gradient( to right bottom, red, green ) border-box;
-            
-           backdrop-filter: blur(4px); 
     
     
 
@@ -278,7 +282,7 @@ input::placeholder{
     margin-left: 20px;
     width: 90%;
     margin-top: 60px;
-    height: 462px;
+    height: 490px;
     display: flex;
     flex-direction: column;
     background-image: linear-gradient(to right bottom, rgb(43, 19, 53, 0.63), rgb(73, 5, 65, 0.38));
@@ -302,4 +306,316 @@ h1{
     margin-left: -40px;
     font-family: "titiliumblack";
     text-transform: uppercase;
+}
+.button-cadastro{
+    width: 124px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    font-family: "titiliumbold";
+    font-size: 13px;
+    
+}
+.tabela{
+    
+    margin-top: 150px;
+    margin-left: 15px;
+    border: 2px solid white;
+    border: none;
+    width: 339px;
+    height: 405px;
+    background-image: linear-gradient();
+    background-origin: border-box, content-box;
+    border-radius: 8px;
+
+}
+.tabela.titulo-tabela{
+    
+
+}
+.tabela h2{
+    text-transform:uppercase ;
+    font-family: "titiliumblack";
+    font-size: 20px;
+    color: #F9AA01;
+    text-shadow: 3px 3px 3px  black
+   
+}
+.tabela .hr-tabela{
+    width: 100%;
+
+}
+.tabela article{
+    margin-top: 22.5px;
+    gap: 10px;
+    align-items: center;
+    
+    background-image: linear-gradient(to right bottom, rgba(27, 20, 38, 0.8), rgb(60, 3, 65, 0.6)), radial-gradient(circle at top left, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0));
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    display: flex;
+    justify-content: space-evenly;
+    
+   
+    border-radius: 8px;
+    border: 2px solid white;
+    border: none;
+    height: 70px;
+    width: 336px;
+  
+}
+
+.tabela .titulo-tabela{
+    display: flex;
+    gap: 30px;
+    
+
+}
+.titulo-tabela h2:last-of-type{
+    margin-left: 45px;
+}
+.titulo-tabela h2:first-of-type{
+    margin-left: 20px;
+}
+.tabela article .hr-inset{
+    width: 1px;
+    height: 50%;
+    
+
+
+}
+.tabela article p:first-of-type{
+    
+    
+}
+.tabela article p:{
+
+}
+.imagem-play{
+    background-image: url(../assets/imagens/LOUD_LOGO\ 1.png);
+    width: 47.04px;
+    height: 32px;
+}
+main{
+    height: 1250px;
+}
+
+/* Footer */
+footer {
+    background-image: url(../assets/imagens/backgroung_footer.png);
+    box-shadow: inset 0 30px 60px rgba(0, 0, 0, 0.8);
+    height: 20px;
+
+
+}
+
+footer .layout-grid {
+    margin-left: 18px;
+    border: none;
+    margin-top: 40px;
+
+}
+
+.logotipo-footer {
+    display: block;
+    text-align: center;
+}
+.logotipo-footer img{
+    margin-top: 30px;
+}
+
+.logotipo-footer p {
+    text-align: justify;
+    padding: 30px 30px 30px 30px;
+    font-family: "quicksand";
+    font-size: 14px;
+}
+
+
+
+
+
+
+/* LINKS UTEIS */
+footer .links-uteis {
+
+
+
+    margin-top: 150px
+}
+
+.links-uteis .hr-title {
+    width: 100px;
+}
+
+footer .links-uteis h1 {
+    margin-left: 20px;
+    font-family: "titiliumblack";
+    font-size: 30px;
+
+
+}
+
+footer .links-uteis p {
+    margin-bottom: 15px;
+    font-family: "titiliumbold";
+    font-size: 16px;
+
+
+
+}
+
+footer .links-uteis .links01 {
+    display: flex;
+    gap: 5px;
+
+
+}
+
+
+.hr-teste {
+    margin-left: 10px;
+    margin-top: 12px;
+    height: 2px;
+    width: 10px;
+    border-color: #F9AA01;
+    background-color: #F9AA01;
+}
+
+.all-links {
+    display: flex;
+    gap: 40px;
+    margin-left: 10px;
+}
+
+.hr-title {
+    margin-left: 20px;
+    width: 150px;
+    height: 2px;
+    border-color: #F9AA01;
+    color: #F9AA01;
+    background-color: #F9AA01;
+    margin-bottom: 40px;
+
+}
+
+/* CONTATOS */
+.contatos {
+    margin-top: 150px;
+}
+
+.contatos .tlt .hr-title {
+    margin-bottom: 40px;
+    margin-left: 0px;
+}
+
+.contatos .cont {
+    margin-left: 0px;
+    font-family: "titiliumblack";
+    font-size: 30px;
+}
+
+.contatos div h3 {
+    font-family: "titiliumbold";
+    font-size: 16px;
+    color: #F9AA01;
+
+
+}
+
+.contatos div {
+    margin-left: 20px;
+}
+
+.contatos .hr-title {
+    width: 100px;
+
+}
+
+/* NEWSLETTER */
+.newsletter {
+    margin-top: 150px
+}
+
+.newsletter .type-email {
+    background-image: linear-gradient(to right bottom, rgba(41, 20, 57, 0.34), rgba(18, 1, 25, 0.79));
+    width: 335px;
+    border: 2px white solid;
+    width: 90%;
+    height: 44px;
+    border-radius: 8px;
+
+
+}
+
+.newsletter .button-box {
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 285px;
+}
+
+.newsletter .two-boxes {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.newsletter .type-email p {
+    margin-top: 12.5px;
+    margin-left: 10px;
+    font-family: "quicksand";
+    font-size: 13px;
+}
+
+.title-newsletter h1 {
+    margin-top: 0px;
+    margin-left: 20px;
+    font-family: "titiliumblack";
+    font-size: 30px
+}
+
+
+.newsletter .button-box {
+    font-family: "titiliumbold";
+    font-size: 24px;
+    color: black;
+    background-color: #F9AA01;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    height: 40px;
+}
+
+.newsletter .hr-title {
+    width: 100px;
+}
+
+footer {
+    height: 100%;
+}
+
+.gradient-footer {
+    background-image: linear-gradient(to top bottom, rgba(8, 0, 0, 1), rgba(59, 3, 77, 0.03));
+
+}
+
+.button-top {
+    margin-top: 100px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 15px;
+}
+
+.copyright-box {
+    margin-top: 10px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.footer{
+    position: relative;
 }
