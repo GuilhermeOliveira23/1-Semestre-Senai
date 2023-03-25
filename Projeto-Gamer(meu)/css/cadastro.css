@@ -138,7 +138,7 @@ header .header-bottom nav {
     display: flex;
     flex-direction: column;
     z-index: 101;
-    border: 2px solid red;
+    
     padding-bottom: 20px;
     transition: left 0.4s;
 
@@ -170,7 +170,7 @@ header .header-bottom nav>a {
     position: fixed;
     top: 16vw;
     right: -70vw;
-    border: 2px solid rgb(223, 98, 98);
+    
     height: 24vh;
     width: 20vw;
     background-image: linear-gradient(to right bottom, rgba(27, 20, 38, 0.7), rgba(27, 20, 38, 0.4));
@@ -252,6 +252,16 @@ form{
     
     
 
+}
+.text-image{
+    font-family: "titiliumregular";
+    font-size: 10px;
+    margin-left: 20px;
+}
+.cadastro-img{
+    display: flex;
+    
+    align-items: center;
 }
 
 input{

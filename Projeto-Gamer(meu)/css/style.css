@@ -45,7 +45,7 @@
 }
 
 .layout-grid {
-    border: 2px solid white;
+    
     width: 90%;
     display: flex;
     justify-content: space-between;
@@ -75,7 +75,7 @@ header {
 .header-top {
     display: flex;
     align-items: center;
-    border: 2px solid white;
+    
     height: 40px;
 }
 
@@ -86,7 +86,7 @@ header {
     justify-content: center;
 
 
-    border: 2px solid white;
+    
 
 }
 
@@ -138,7 +138,7 @@ header .header-bottom nav {
     display: flex;
     flex-direction: column;
     z-index: 101;
-    border: 2px solid red;
+    
     padding-bottom: 20px;
     transition: left 0.4s;
 
@@ -165,12 +165,12 @@ header .header-bottom nav>a {
 }
 
 .userui {
-    margin-right: 18px;
+    margin-right: 0px;
 
     position: fixed;
     top: 16vw;
     right: -70vw;
-    border: 2px solid rgb(223, 98, 98);
+    
     height: 24vh;
     width: 20vw;
     background-image: linear-gradient(to right bottom, rgba(27, 20, 38, 0.7), rgba(27, 20, 38, 0.4));
@@ -218,6 +218,7 @@ header .header-bottom nav {
     margin-top: 0px;
     font-family: "titiliumblack";
     height: 100px;
+    text-shadow: 3px 3px 3px rgb(169, 13, 13);
 
 }
 
@@ -394,7 +395,7 @@ main {
 
 .img-big {
     width: 350px;
-    border: 2px solid green;
+   
     margin-top: 100px;
 }
 
@@ -410,7 +411,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid red;
+    
 
 }
 
@@ -418,7 +419,7 @@ main {
     width: 370px;
     margin-top: 80px;
 
-    border: 2px solid green;
+   
 }
 
 .img-big2 article {
@@ -432,7 +433,7 @@ main {
 
     display: flex;
     align-items: center;
-    border: 2px solid red;
+    
     background-repeat: no-repeat;
 }
 
