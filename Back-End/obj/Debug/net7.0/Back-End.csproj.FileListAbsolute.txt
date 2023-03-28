@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\Back-End\bin\Debug\net7.0\Back-End.exe
+C:\Users\54823324897\Desktop\Back-End\bin\Debug\net7.0\Back-End.deps.json
+C:\Users\54823324897\Desktop\Back-End\bin\Debug\net7.0\Back-End.runtimeconfig.json
+C:\Users\54823324897\Desktop\Back-End\bin\Debug\net7.0\Back-End.dll
+C:\Users\54823324897\Desktop\Back-End\bin\Debug\net7.0\Back-End.pdb
+C:\Users\54823324897\Desktop\Back-End\obj\Debug\net7.0\Back-End.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\Back-End\obj\Debug\net7.0\Back-End.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\Back-End\obj\Debug\net7.0\Back-End.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\Back-End\obj\Debug\net7.0\Back-End.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\Back-End\obj\Debug\net7.0\Back-End.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\Back-End\obj\Debug\net7.0\Back-End.dll
+C:\Users\54823324897\Desktop\Back-End\obj\Debug\net7.0\refint\Back-End.dll
+C:\Users\54823324897\Desktop\Back-End\obj\Debug\net7.0\Back-End.pdb
+C:\Users\54823324897\Desktop\Back-End\obj\Debug\net7.0\Back-End.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\Back-End\obj\Debug\net7.0\ref\Back-End.dll
