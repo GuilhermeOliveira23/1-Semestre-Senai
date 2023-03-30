@@ -93,7 +93,11 @@ float altura = 1.80f;
 
 //processamentos
 float imc = peso / (altura * altura);
-Console.WriteLine("O IMC do " + nome + " e de :" + Math.Round(imc,2));
+Console.WriteLine("O IMC do " + nome + " e de:" + Math.Round(imc,2));
+
+
+
+
 
 
 

@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\obj\Debug\net7.0\Estrut-Cond Ex1.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\obj\Debug\net7.0\Estrut-Cond Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\obj\Debug\net7.0\Estrut-Cond Ex1.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\obj\Debug\net7.0\Estrut-Cond Ex1.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\obj\Debug\net7.0\Estrut-Cond Ex1.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\bin\Debug\net7.0\Estrut-Cond Ex1.exe
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\bin\Debug\net7.0\Estrut-Cond Ex1.deps.json
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\bin\Debug\net7.0\Estrut-Cond Ex1.runtimeconfig.json
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\bin\Debug\net7.0\Estrut-Cond Ex1.dll
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\bin\Debug\net7.0\Estrut-Cond Ex1.pdb
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\obj\Debug\net7.0\Estrut-Cond Ex1.dll
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\obj\Debug\net7.0\refint\Estrut-Cond Ex1.dll
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\obj\Debug\net7.0\Estrut-Cond Ex1.pdb
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\obj\Debug\net7.0\Estrut-Cond Ex1.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\Estrut-Cond Ex1\obj\Debug\net7.0\ref\Estrut-Cond Ex1.dll

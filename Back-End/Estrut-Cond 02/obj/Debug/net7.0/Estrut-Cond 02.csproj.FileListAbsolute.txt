@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\Estrut-Cond 02\bin\Debug\net7.0\Estrut-Cond 02.exe
+C:\Users\54823324897\Desktop\Estrut-Cond 02\bin\Debug\net7.0\Estrut-Cond 02.deps.json
+C:\Users\54823324897\Desktop\Estrut-Cond 02\bin\Debug\net7.0\Estrut-Cond 02.runtimeconfig.json
+C:\Users\54823324897\Desktop\Estrut-Cond 02\bin\Debug\net7.0\Estrut-Cond 02.dll
+C:\Users\54823324897\Desktop\Estrut-Cond 02\bin\Debug\net7.0\Estrut-Cond 02.pdb
+C:\Users\54823324897\Desktop\Estrut-Cond 02\obj\Debug\net7.0\Estrut-Cond 02.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\Estrut-Cond 02\obj\Debug\net7.0\Estrut-Cond 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\Estrut-Cond 02\obj\Debug\net7.0\Estrut-Cond 02.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\Estrut-Cond 02\obj\Debug\net7.0\Estrut-Cond 02.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\Estrut-Cond 02\obj\Debug\net7.0\Estrut-Cond 02.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\Estrut-Cond 02\obj\Debug\net7.0\Estrut-Cond 02.dll
+C:\Users\54823324897\Desktop\Estrut-Cond 02\obj\Debug\net7.0\refint\Estrut-Cond 02.dll
+C:\Users\54823324897\Desktop\Estrut-Cond 02\obj\Debug\net7.0\Estrut-Cond 02.pdb
+C:\Users\54823324897\Desktop\Estrut-Cond 02\obj\Debug\net7.0\Estrut-Cond 02.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\Estrut-Cond 02\obj\Debug\net7.0\ref\Estrut-Cond 02.dll
