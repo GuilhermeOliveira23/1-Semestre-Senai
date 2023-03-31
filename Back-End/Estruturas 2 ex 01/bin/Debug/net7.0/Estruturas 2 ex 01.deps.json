@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Estruturas 2 ex 01/1.0.0": {
+        "runtime": {
+          "Estruturas 2 ex 01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estruturas 2 ex 01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

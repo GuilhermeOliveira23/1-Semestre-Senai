@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\obj\Debug\net7.0\Estruturas 2 ex 04.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\obj\Debug\net7.0\Estruturas 2 ex 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\obj\Debug\net7.0\Estruturas 2 ex 04.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\obj\Debug\net7.0\Estruturas 2 ex 04.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\obj\Debug\net7.0\Estruturas 2 ex 04.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\bin\Debug\net7.0\Estruturas 2 ex 04.exe
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\bin\Debug\net7.0\Estruturas 2 ex 04.deps.json
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\bin\Debug\net7.0\Estruturas 2 ex 04.runtimeconfig.json
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\bin\Debug\net7.0\Estruturas 2 ex 04.dll
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\bin\Debug\net7.0\Estruturas 2 ex 04.pdb
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\obj\Debug\net7.0\Estruturas 2 ex 04.dll
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\obj\Debug\net7.0\refint\Estruturas 2 ex 04.dll
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\obj\Debug\net7.0\Estruturas 2 ex 04.pdb
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\obj\Debug\net7.0\Estruturas 2 ex 04.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\Estruturas 2 ex 04\obj\Debug\net7.0\ref\Estruturas 2 ex 04.dll
