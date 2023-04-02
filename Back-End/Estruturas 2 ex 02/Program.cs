@@ -1,26 +1,34 @@
-﻿
-Console.WriteLine($"Digite o primeiro numero:");
-float n1 = float.Parse(Console.ReadLine());
-Console.WriteLine($"Digite o segundo numero:");
-float n2 = float.Parse(Console.ReadLine());
-Console.WriteLine($"Digite o terceiro numero:");
-float n3 =  float.Parse(Console.ReadLine());
+﻿Console.WriteLine($"Insira o primeiro número");
+int n1 = int.Parse(Console.ReadLine()!);
+Console.WriteLine($"Insira o segundo número");
+int n2 = int.Parse(Console.ReadLine()!);
+Console.WriteLine($"Insira o terceiro número");
+int n3 = int.Parse(Console.ReadLine()!);
 
+int maior = n1;
+int menor = n1;
 
-if (n1 > n2 && n1 > n3){
-    Console.WriteLine($"O primeiro número é o maior entre eles");
+if (n2 > maior){
+    maior=n2;
     
 }
-else if (n2 > n1 && n2 > n3){
-    Console.WriteLine($"O segundo número é o maior entre eles");
-    
-}
-else if (n3 > n1 && n3 > n2){
-    Console.WriteLine($"O terceiro número é o maior entre eles");
-    
-}
-else {
-    Console.WriteLine($"Todos os números são iguais");
+if (n2 < menor){
+    menor=n2;
     
 }
 
+if (n3 > maior){
+    maior=n3;
+    
+}
+if (n3 < menor){
+    menor=n3;
+    
+}
+
+Console.WriteLine($"O maior número é " + maior);
+Console.WriteLine($"O menor número é " + menor);
+
+
+
+ 

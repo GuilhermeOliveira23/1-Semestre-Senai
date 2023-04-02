@@ -1,9 +1,36 @@
-﻿List<string> perguntas = new List<string>() { 
-"Telefonou para a vítima?",
-"Esteve no local do crime?",
-"Mora perto da vítima?",
-"Devia para a vítima?",
-"Já trabalhou com a vítima?"
+﻿int respostasPositivas = 0;
 
+string resposta = "";
+List<string> perguntas = new List<string> {
+    "Você telefonou para a vítima? ",
+    "Você esteve no local do crime? ",
+    "Você mora perto da vítima? ",
+    "Você devia para a vítima? ",
+    "Você já trabalhou com a vítima? "
 };
+foreach(string pergunta in perguntas){
+    Console.WriteLine($"{pergunta} [sim/não]");
+    resposta = Console.ReadLine()!.ToUpper();
 
+    if(resposta == "SIM"){respostasPositivas++;}
+    
+}
+
+switch (respostasPositivas){
+
+ case 2:
+ Console.WriteLine($"Você é Suspeito!");
+ break;
+
+ case 3 or 4:
+ Console.WriteLine($"Você é Cúmplice!!");
+ break;
+
+ case 5:
+ Console.WriteLine($"Você é culpado!!");
+ break;
+ 
+ 
+ 
+
+}
