@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Estruturas 2 ex 02\\Estruturas 2 ex 02.csproj": {}
+    "C:\\Users\\54823324897\\Desktop\\Back-End\\Estruturas 2 ex 02\\Estruturas 2 ex 02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Estruturas 2 ex 02\\Estruturas 2 ex 02.csproj": {
+    "C:\\Users\\54823324897\\Desktop\\Back-End\\Estruturas 2 ex 02\\Estruturas 2 ex 02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Estruturas 2 ex 02\\Estruturas 2 ex 02.csproj",
+        "projectUniqueName": "C:\\Users\\54823324897\\Desktop\\Back-End\\Estruturas 2 ex 02\\Estruturas 2 ex 02.csproj",
         "projectName": "Estruturas 2 ex 02",
-        "projectPath": "C:\\Users\\User\\Desktop\\Estruturas 2 ex 02\\Estruturas 2 ex 02.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Estruturas 2 ex 02\\obj\\",
+        "projectPath": "C:\\Users\\54823324897\\Desktop\\Back-End\\Estruturas 2 ex 02\\Estruturas 2 ex 02.csproj",
+        "packagesPath": "C:\\Users\\54823324897\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\54823324897\\Desktop\\Back-End\\Estruturas 2 ex 02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\54823324897\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

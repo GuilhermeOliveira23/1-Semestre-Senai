@@ -6,6 +6,7 @@ contador = 1( apartir de agora)
 Math.Max()
 Math.Min()
 == iguala items
+++ incrementa valor (+1)
 
 
 if resposta1 = Sim && resposta2 = sim resposta1 == r
@@ -14,3 +15,6 @@ Contador no do crime
 
 Link do Gustavo crackeado:
 https://github.com/Gustavo-daCosta/Tecnico-DEV-S1/blob/main/Exerc%C3%ADcios%20C%23/EXC%20-%20Estruturas%20de%20Condi%C3%A7%C3%A3o/Suspeita%20de%20crime/Program.cs
+
+
+Dontpad da nossa mesa == https://dontpad.com/mesa-1-dev
