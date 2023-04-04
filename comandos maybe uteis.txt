@@ -2,11 +2,14 @@
 contador = 0
 contador = contador  + 1
 contador = 1( apartir de agora)
+(! de negacao) (!(oi == 1)) 
+ se oi não é igual a 1/oi diferente de 1
 
 Math.Max()
 Math.Min()
-== iguala items
-++ incrementa valor (+1)
+(== de comparacao) ( = de atribuicao)
+
+(++ incrementa valor (+1))
 
 
 if resposta1 = Sim && resposta2 = sim resposta1 == r
@@ -18,3 +21,6 @@ https://github.com/Gustavo-daCosta/Tecnico-DEV-S1/blob/main/Exerc%C3%ADcios%20C%
 
 
 Dontpad da nossa mesa == https://dontpad.com/mesa-1-dev
+
+Guanabara Ex:https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf
+

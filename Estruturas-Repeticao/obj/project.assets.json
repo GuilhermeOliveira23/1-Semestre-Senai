@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\54823324897\\Desktop\\Programa ex\\Programa ex.csproj",
-      "projectName": "Programa ex",
-      "projectPath": "C:\\Users\\54823324897\\Desktop\\Programa ex\\Programa ex.csproj",
+      "projectUniqueName": "C:\\Users\\54823324897\\Desktop\\Estruturas-Repeticao\\Nova pasta.csproj",
+      "projectName": "Nova pasta",
+      "projectPath": "C:\\Users\\54823324897\\Desktop\\Estruturas-Repeticao\\Nova pasta.csproj",
       "packagesPath": "C:\\Users\\54823324897\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\54823324897\\Desktop\\Programa ex\\obj\\",
+      "outputPath": "C:\\Users\\54823324897\\Desktop\\Estruturas-Repeticao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\54823324897\\AppData\\Roaming\\NuGet\\NuGet.Config",
