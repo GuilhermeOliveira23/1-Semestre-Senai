@@ -44,8 +44,8 @@ do{
 
 do{
     Console.WriteLine($"Digite o seu salário:");
- int salario =  int.Parse(Console.ReadLine()!);
-    if((salario > 0)){
+ float salario =  float.Parse(Console.ReadLine()!);
+    if((salario > 0f)){
         
         cadastro2 = true;
         
