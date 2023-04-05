@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Nova pasta/1.0.0": {
+      "Estrutura Rep Ex1/1.0.0": {
         "runtime": {
-          "Nova pasta.dll": {}
+          "Estrutura Rep Ex1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Nova pasta/1.0.0": {
+    "Estrutura Rep Ex1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
