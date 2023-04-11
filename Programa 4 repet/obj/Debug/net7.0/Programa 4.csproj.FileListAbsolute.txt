@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\Programa 4\bin\Debug\net7.0\Programa 4.exe
+C:\Users\54823324897\Desktop\Programa 4\bin\Debug\net7.0\Programa 4.deps.json
+C:\Users\54823324897\Desktop\Programa 4\bin\Debug\net7.0\Programa 4.runtimeconfig.json
+C:\Users\54823324897\Desktop\Programa 4\bin\Debug\net7.0\Programa 4.dll
+C:\Users\54823324897\Desktop\Programa 4\bin\Debug\net7.0\Programa 4.pdb
+C:\Users\54823324897\Desktop\Programa 4\obj\Debug\net7.0\Programa 4.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\Programa 4\obj\Debug\net7.0\Programa 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\Programa 4\obj\Debug\net7.0\Programa 4.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\Programa 4\obj\Debug\net7.0\Programa 4.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\Programa 4\obj\Debug\net7.0\Programa 4.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\Programa 4\obj\Debug\net7.0\Programa 4.dll
+C:\Users\54823324897\Desktop\Programa 4\obj\Debug\net7.0\refint\Programa 4.dll
+C:\Users\54823324897\Desktop\Programa 4\obj\Debug\net7.0\Programa 4.pdb
+C:\Users\54823324897\Desktop\Programa 4\obj\Debug\net7.0\Programa 4.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\Programa 4\obj\Debug\net7.0\ref\Programa 4.dll

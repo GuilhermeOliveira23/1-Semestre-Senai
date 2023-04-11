@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\bin\Debug\net7.0\Ex array 2.exe
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\bin\Debug\net7.0\Ex array 2.deps.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\bin\Debug\net7.0\Ex array 2.runtimeconfig.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\bin\Debug\net7.0\Ex array 2.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\bin\Debug\net7.0\Ex array 2.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\obj\Debug\net7.0\Ex array 2.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\obj\Debug\net7.0\Ex array 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\obj\Debug\net7.0\Ex array 2.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\obj\Debug\net7.0\Ex array 2.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\obj\Debug\net7.0\Ex array 2.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\obj\Debug\net7.0\Ex array 2.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\obj\Debug\net7.0\refint\Ex array 2.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\obj\Debug\net7.0\Ex array 2.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\obj\Debug\net7.0\Ex array 2.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Ex array 2\obj\Debug\net7.0\ref\Ex array 2.dll

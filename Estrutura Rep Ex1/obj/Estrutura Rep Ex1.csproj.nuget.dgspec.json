@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\54823324897\\Desktop\\Estrutura Rep Ex1\\Estrutura Rep Ex1.csproj": {}
+    "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Estrutura Rep Ex1\\Estrutura Rep Ex1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\54823324897\\Desktop\\Estrutura Rep Ex1\\Estrutura Rep Ex1.csproj": {
+    "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Estrutura Rep Ex1\\Estrutura Rep Ex1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\54823324897\\Desktop\\Estrutura Rep Ex1\\Estrutura Rep Ex1.csproj",
+        "projectUniqueName": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Estrutura Rep Ex1\\Estrutura Rep Ex1.csproj",
         "projectName": "Estrutura Rep Ex1",
-        "projectPath": "C:\\Users\\54823324897\\Desktop\\Estrutura Rep Ex1\\Estrutura Rep Ex1.csproj",
+        "projectPath": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Estrutura Rep Ex1\\Estrutura Rep Ex1.csproj",
         "packagesPath": "C:\\Users\\54823324897\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\54823324897\\Desktop\\Estrutura Rep Ex1\\obj\\",
+        "outputPath": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Estrutura Rep Ex1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\54823324897\\AppData\\Roaming\\NuGet\\NuGet.Config",
