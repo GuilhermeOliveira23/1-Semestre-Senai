@@ -25,3 +25,5 @@ Dontpad da nossa mesa == https://dontpad.com/mesa-1-dev
 Guanabara Ex:https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf
 
 alt + 1 + 6 + 7 = º
+
+% = divisão que pega o resto
