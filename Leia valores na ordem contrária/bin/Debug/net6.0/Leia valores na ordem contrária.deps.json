@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Leia valores na ordem contrária/1.0.0": {
+        "runtime": {
+          "Leia valores na ordem contrária.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leia valores na ordem contrária/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

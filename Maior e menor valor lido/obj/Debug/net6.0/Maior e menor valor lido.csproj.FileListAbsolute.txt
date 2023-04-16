@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\bin\Debug\net6.0\Maior e menor valor lido.exe
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\bin\Debug\net6.0\Maior e menor valor lido.deps.json
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\bin\Debug\net6.0\Maior e menor valor lido.runtimeconfig.json
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\bin\Debug\net6.0\Maior e menor valor lido.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\bin\Debug\net6.0\Maior e menor valor lido.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\obj\Debug\net6.0\Maior e menor valor lido.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\obj\Debug\net6.0\Maior e menor valor lido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\obj\Debug\net6.0\Maior e menor valor lido.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\obj\Debug\net6.0\Maior e menor valor lido.AssemblyInfo.cs
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\obj\Debug\net6.0\Maior e menor valor lido.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\obj\Debug\net6.0\Maior e menor valor lido.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\obj\Debug\net6.0\refint\Maior e menor valor lido.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\obj\Debug\net6.0\Maior e menor valor lido.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\obj\Debug\net6.0\Maior e menor valor lido.genruntimeconfig.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Maior e menor valor lido\obj\Debug\net6.0\ref\Maior e menor valor lido.dll
