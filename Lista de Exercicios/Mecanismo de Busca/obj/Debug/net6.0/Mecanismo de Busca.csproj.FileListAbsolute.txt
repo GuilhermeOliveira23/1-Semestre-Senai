@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\bin\Debug\net6.0\Mecanismo de Busca.exe
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\bin\Debug\net6.0\Mecanismo de Busca.deps.json
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\bin\Debug\net6.0\Mecanismo de Busca.runtimeconfig.json
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\bin\Debug\net6.0\Mecanismo de Busca.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\bin\Debug\net6.0\Mecanismo de Busca.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.AssemblyInfo.cs
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\obj\Debug\net6.0\refint\Mecanismo de Busca.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.genruntimeconfig.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Mecanismo de Busca\obj\Debug\net6.0\ref\Mecanismo de Busca.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\bin\Debug\net6.0\Mecanismo de Busca.exe
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\bin\Debug\net6.0\Mecanismo de Busca.deps.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\bin\Debug\net6.0\Mecanismo de Busca.runtimeconfig.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\bin\Debug\net6.0\Mecanismo de Busca.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\bin\Debug\net6.0\Mecanismo de Busca.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\obj\Debug\net6.0\refint\Mecanismo de Busca.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\obj\Debug\net6.0\Mecanismo de Busca.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Lista de Exercicios\Mecanismo de Busca\obj\Debug\net6.0\ref\Mecanismo de Busca.dll

@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\Correção desafio\bin\Debug\net7.0\Correção desafio.exe
+C:\Users\54823324897\Desktop\Correção desafio\bin\Debug\net7.0\Correção desafio.deps.json
+C:\Users\54823324897\Desktop\Correção desafio\bin\Debug\net7.0\Correção desafio.runtimeconfig.json
+C:\Users\54823324897\Desktop\Correção desafio\bin\Debug\net7.0\Correção desafio.dll
+C:\Users\54823324897\Desktop\Correção desafio\bin\Debug\net7.0\Correção desafio.pdb
+C:\Users\54823324897\Desktop\Correção desafio\obj\Debug\net7.0\Correção desafio.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\Correção desafio\obj\Debug\net7.0\Correção desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\Correção desafio\obj\Debug\net7.0\Correção desafio.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\Correção desafio\obj\Debug\net7.0\Correção desafio.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\Correção desafio\obj\Debug\net7.0\Correção desafio.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\Correção desafio\obj\Debug\net7.0\Correção desafio.dll
+C:\Users\54823324897\Desktop\Correção desafio\obj\Debug\net7.0\refint\Correção desafio.dll
+C:\Users\54823324897\Desktop\Correção desafio\obj\Debug\net7.0\Correção desafio.pdb
+C:\Users\54823324897\Desktop\Correção desafio\obj\Debug\net7.0\Correção desafio.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\Correção desafio\obj\Debug\net7.0\ref\Correção desafio.dll

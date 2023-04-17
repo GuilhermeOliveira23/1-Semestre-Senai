@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\Exc array\bin\Debug\net7.0\Exc array.exe
+C:\Users\54823324897\Desktop\Exc array\bin\Debug\net7.0\Exc array.deps.json
+C:\Users\54823324897\Desktop\Exc array\bin\Debug\net7.0\Exc array.runtimeconfig.json
+C:\Users\54823324897\Desktop\Exc array\bin\Debug\net7.0\Exc array.dll
+C:\Users\54823324897\Desktop\Exc array\bin\Debug\net7.0\Exc array.pdb
+C:\Users\54823324897\Desktop\Exc array\obj\Debug\net7.0\Exc array.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\Exc array\obj\Debug\net7.0\Exc array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\Exc array\obj\Debug\net7.0\Exc array.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\Exc array\obj\Debug\net7.0\Exc array.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\Exc array\obj\Debug\net7.0\Exc array.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\Exc array\obj\Debug\net7.0\Exc array.dll
+C:\Users\54823324897\Desktop\Exc array\obj\Debug\net7.0\refint\Exc array.dll
+C:\Users\54823324897\Desktop\Exc array\obj\Debug\net7.0\Exc array.pdb
+C:\Users\54823324897\Desktop\Exc array\obj\Debug\net7.0\Exc array.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\Exc array\obj\Debug\net7.0\ref\Exc array.dll

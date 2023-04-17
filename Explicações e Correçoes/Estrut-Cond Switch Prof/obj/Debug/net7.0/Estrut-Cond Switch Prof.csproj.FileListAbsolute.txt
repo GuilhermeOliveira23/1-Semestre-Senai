@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\bin\Debug\net7.0\Estrut-Cond Switch Prof.exe
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\bin\Debug\net7.0\Estrut-Cond Switch Prof.deps.json
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\bin\Debug\net7.0\Estrut-Cond Switch Prof.runtimeconfig.json
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\bin\Debug\net7.0\Estrut-Cond Switch Prof.dll
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\bin\Debug\net7.0\Estrut-Cond Switch Prof.pdb
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\obj\Debug\net7.0\Estrut-Cond Switch Prof.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\obj\Debug\net7.0\Estrut-Cond Switch Prof.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\obj\Debug\net7.0\Estrut-Cond Switch Prof.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\obj\Debug\net7.0\Estrut-Cond Switch Prof.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\obj\Debug\net7.0\Estrut-Cond Switch Prof.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\obj\Debug\net7.0\Estrut-Cond Switch Prof.dll
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\obj\Debug\net7.0\refint\Estrut-Cond Switch Prof.dll
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\obj\Debug\net7.0\Estrut-Cond Switch Prof.pdb
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\obj\Debug\net7.0\Estrut-Cond Switch Prof.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\Estrut-Cond Switch Prof\obj\Debug\net7.0\ref\Estrut-Cond Switch Prof.dll

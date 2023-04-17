@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\Projeto calculadora\bin\Debug\net7.0\Projeto calculadora.exe
+C:\Users\54823324897\Desktop\Projeto calculadora\bin\Debug\net7.0\Projeto calculadora.deps.json
+C:\Users\54823324897\Desktop\Projeto calculadora\bin\Debug\net7.0\Projeto calculadora.runtimeconfig.json
+C:\Users\54823324897\Desktop\Projeto calculadora\bin\Debug\net7.0\Projeto calculadora.dll
+C:\Users\54823324897\Desktop\Projeto calculadora\bin\Debug\net7.0\Projeto calculadora.pdb
+C:\Users\54823324897\Desktop\Projeto calculadora\obj\Debug\net7.0\Projeto calculadora.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\Projeto calculadora\obj\Debug\net7.0\Projeto calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\Projeto calculadora\obj\Debug\net7.0\Projeto calculadora.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\Projeto calculadora\obj\Debug\net7.0\Projeto calculadora.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\Projeto calculadora\obj\Debug\net7.0\Projeto calculadora.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\Projeto calculadora\obj\Debug\net7.0\Projeto calculadora.dll
+C:\Users\54823324897\Desktop\Projeto calculadora\obj\Debug\net7.0\refint\Projeto calculadora.dll
+C:\Users\54823324897\Desktop\Projeto calculadora\obj\Debug\net7.0\Projeto calculadora.pdb
+C:\Users\54823324897\Desktop\Projeto calculadora\obj\Debug\net7.0\Projeto calculadora.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\Projeto calculadora\obj\Debug\net7.0\ref\Projeto calculadora.dll

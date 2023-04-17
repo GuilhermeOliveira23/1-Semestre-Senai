@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\bin\Debug\net7.0\Estrutura-Repetição FOR.exe
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\bin\Debug\net7.0\Estrutura-Repetição FOR.deps.json
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\bin\Debug\net7.0\Estrutura-Repetição FOR.runtimeconfig.json
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\bin\Debug\net7.0\Estrutura-Repetição FOR.dll
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\bin\Debug\net7.0\Estrutura-Repetição FOR.pdb
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\obj\Debug\net7.0\Estrutura-Repetição FOR.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\obj\Debug\net7.0\Estrutura-Repetição FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\obj\Debug\net7.0\Estrutura-Repetição FOR.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\obj\Debug\net7.0\Estrutura-Repetição FOR.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\obj\Debug\net7.0\Estrutura-Repetição FOR.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\obj\Debug\net7.0\Estrutura-Repetição FOR.dll
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\obj\Debug\net7.0\refint\Estrutura-Repetição FOR.dll
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\obj\Debug\net7.0\Estrutura-Repetição FOR.pdb
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\obj\Debug\net7.0\Estrutura-Repetição FOR.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\Estrutura-Repetição FOR\obj\Debug\net7.0\ref\Estrutura-Repetição FOR.dll
