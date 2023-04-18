@@ -29,3 +29,11 @@ alt + 1 + 6 + 7 = º
 % = divisão que pega o resto
 : significa senao
 ? e uma pergunta
+
+//estrutura de uma função
+
+
+//tipo dado nomeFunção(parâmetros ou argumentos)
+{
+	//Corpo da funcao
+}

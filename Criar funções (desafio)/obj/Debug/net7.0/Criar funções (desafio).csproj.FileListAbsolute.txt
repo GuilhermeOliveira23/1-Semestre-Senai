@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\bin\Debug\net7.0\Criar funções (desafio).exe
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\bin\Debug\net7.0\Criar funções (desafio).deps.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\bin\Debug\net7.0\Criar funções (desafio).runtimeconfig.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\bin\Debug\net7.0\Criar funções (desafio).dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\bin\Debug\net7.0\Criar funções (desafio).pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\obj\Debug\net7.0\Criar funções (desafio).csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\obj\Debug\net7.0\Criar funções (desafio).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\obj\Debug\net7.0\Criar funções (desafio).AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\obj\Debug\net7.0\Criar funções (desafio).AssemblyInfo.cs
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\obj\Debug\net7.0\Criar funções (desafio).csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\obj\Debug\net7.0\Criar funções (desafio).dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\obj\Debug\net7.0\refint\Criar funções (desafio).dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\obj\Debug\net7.0\Criar funções (desafio).pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\obj\Debug\net7.0\Criar funções (desafio).genruntimeconfig.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Criar funções (desafio)\obj\Debug\net7.0\ref\Criar funções (desafio).dll
