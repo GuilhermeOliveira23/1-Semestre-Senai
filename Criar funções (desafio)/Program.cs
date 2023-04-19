@@ -14,13 +14,17 @@
 //Criar funcao ListarProduto
 
 
+Console.WriteLine(MostrarMenu());
+
+
+
 
 string[] Nomes = new string[10];
 float[] Precos = new float[10];
 string[] Marca = new string[10];
 int[] Quantidade = new int[10];
 
-static void Menu(){
+static void MostrarMenu(){
 
     Console.WriteLine(@$"Escolha o que deseja fazer : [Digite : 1/2/3]
 ----------------------------------  

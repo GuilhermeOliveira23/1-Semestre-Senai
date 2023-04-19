@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\bin\Debug\net7.0\Desafio Produto.exe
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\bin\Debug\net7.0\Desafio Produto.deps.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\bin\Debug\net7.0\Desafio Produto.runtimeconfig.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\bin\Debug\net7.0\Desafio Produto.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\bin\Debug\net7.0\Desafio Produto.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\obj\Debug\net7.0\Desafio Produto.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\obj\Debug\net7.0\Desafio Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\obj\Debug\net7.0\Desafio Produto.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\obj\Debug\net7.0\Desafio Produto.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\obj\Debug\net7.0\Desafio Produto.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\obj\Debug\net7.0\Desafio Produto.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\obj\Debug\net7.0\refint\Desafio Produto.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\obj\Debug\net7.0\Desafio Produto.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\obj\Debug\net7.0\Desafio Produto.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Desafio Produto\obj\Debug\net7.0\ref\Desafio Produto.dll
