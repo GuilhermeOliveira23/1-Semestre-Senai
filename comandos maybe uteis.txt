@@ -27,8 +27,8 @@ Guanabara Ex:https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-
 alt + 1 + 6 + 7 = º
 
 % = divisão que pega o resto
-: significa senao
-? e uma pergunta
+: significa senão
+? é uma pergunta
 
 //estrutura de uma função
 
@@ -37,3 +37,6 @@ alt + 1 + 6 + 7 = º
 {
 	//Corpo da funcao
 }
+
+
+POO = programação orientada à objetos

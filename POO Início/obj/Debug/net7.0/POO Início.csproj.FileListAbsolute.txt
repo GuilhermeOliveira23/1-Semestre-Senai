@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\POO Início\bin\Debug\net7.0\POO Início.exe
+C:\Users\54823324897\Desktop\POO Início\bin\Debug\net7.0\POO Início.deps.json
+C:\Users\54823324897\Desktop\POO Início\bin\Debug\net7.0\POO Início.runtimeconfig.json
+C:\Users\54823324897\Desktop\POO Início\bin\Debug\net7.0\POO Início.dll
+C:\Users\54823324897\Desktop\POO Início\bin\Debug\net7.0\POO Início.pdb
+C:\Users\54823324897\Desktop\POO Início\obj\Debug\net7.0\POO Início.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\POO Início\obj\Debug\net7.0\POO Início.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\POO Início\obj\Debug\net7.0\POO Início.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\POO Início\obj\Debug\net7.0\POO Início.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\POO Início\obj\Debug\net7.0\POO Início.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\POO Início\obj\Debug\net7.0\POO Início.dll
+C:\Users\54823324897\Desktop\POO Início\obj\Debug\net7.0\refint\POO Início.dll
+C:\Users\54823324897\Desktop\POO Início\obj\Debug\net7.0\POO Início.pdb
+C:\Users\54823324897\Desktop\POO Início\obj\Debug\net7.0\POO Início.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\POO Início\obj\Debug\net7.0\ref\POO Início.dll

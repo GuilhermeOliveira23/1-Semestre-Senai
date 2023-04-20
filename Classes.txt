@@ -1,0 +1,78 @@
+Classe Cadeira:
+Nome: Cadeira gamer
+Assento: estofado
+Material: Plastico
+funcao: Deitar e dobrar
+
+
+
+Nome: Cadeira de bar
+Assento: estofado
+Material: Plastico
+funcao: ficar parada
+
+Nome: Cadeira de dentista
+Assento: estofado
+Material: Metal
+funcao: dobrar e deitar
+
+
+Classe Porta:
+Nome: Porta de metal
+Material: metal
+funcao: ficar parada
+
+Nome: Porta de madeira
+material: madeira
+funcao: ficar parada
+
+Nome: Porta de brinquedo
+material: plastico
+funcao: ser usada
+
+Classe Sistema Operacional:
+Nome: Linux
+Empresa responsavel: LinuxEnterprise
+Funcoes: disponibilizar um sistema funcional
+
+Nome: Windows XP
+Empresa responsavel: Microsoft
+Funcoes: disponibilizar um sistema funcional
+
+Nome: Windows 10
+Empresa responsavel: Microsoft
+Funcoes:disponibilizar um sistema funcional
+
+Classe headset Gamer:
+[obj1]
+Nome: RedDragon
+peso: 200g
+cor: preto
+Dpi: 9000-3000
+[obj2]
+Nome: Razer Kraken
+peso: 120g
+cor: branco
+Dpi: 9000-300
+[obj2]
+Nome: Logitech
+peso: 120g
+cor: preto
+Dpi: 800-5000
+
+Classe AutoridadesEscola:
+
+Objeto: Professor
+Nome: Matheus
+funcao: Dar aula
+Idade: 25
+
+Objeto: Diretor
+Nome: Labrador
+Funcao: Dirije, organiza e planeja 
+Idade: 56
+
+Objeto: Coordenador
+Nome: Vandinho
+Funcao: Liderar e organizar projetos 
+Idade: 42

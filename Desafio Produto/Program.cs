@@ -8,7 +8,6 @@ bool[] promocao = new bool[10];
 MostrarMenu:
 Console.ForegroundColor = ConsoleColor.DarkBlue;
 
-
   Console.WriteLine(@$"Escolha o que deseja fazer:
 ---------------------------------------------
 |                                           |           
@@ -81,8 +80,3 @@ switch (numero)
     
     goto MostrarMenu;        
 }
-
-
-
-
-
