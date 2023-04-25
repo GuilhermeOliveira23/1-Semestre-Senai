@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\bin\Debug\net6.0\Sistema Orientado a objeto.exe
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\bin\Debug\net6.0\Sistema Orientado a objeto.deps.json
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\bin\Debug\net6.0\Sistema Orientado a objeto.runtimeconfig.json
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\bin\Debug\net6.0\Sistema Orientado a objeto.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\bin\Debug\net6.0\Sistema Orientado a objeto.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\obj\Debug\net6.0\Sistema Orientado a objeto.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\obj\Debug\net6.0\Sistema Orientado a objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\obj\Debug\net6.0\Sistema Orientado a objeto.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\obj\Debug\net6.0\Sistema Orientado a objeto.AssemblyInfo.cs
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\obj\Debug\net6.0\Sistema Orientado a objeto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\obj\Debug\net6.0\Sistema Orientado a objeto.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\obj\Debug\net6.0\refint\Sistema Orientado a objeto.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\obj\Debug\net6.0\Sistema Orientado a objeto.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\obj\Debug\net6.0\Sistema Orientado a objeto.genruntimeconfig.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Aluno\obj\Debug\net6.0\ref\Sistema Orientado a objeto.dll
