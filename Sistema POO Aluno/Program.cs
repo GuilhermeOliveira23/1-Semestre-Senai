@@ -13,28 +13,38 @@
 
  using Sistema_Orientado_a_objeto;
  float desconto = 1f;
-
+ int[] notas = new int[4];
+ 
  Aluno al = new Aluno();
 
 Console.WriteLine($"Digite o nome do aluno");
- al.nome = Console.ReadLine();
+ al.nome = Console.ReadLine()!;
  Console.WriteLine($"Digite o Curso do aluno");
- al.curso = Console.ReadLine();
+ al.curso = Console.ReadLine()!;
  Console.WriteLine($"Digite a idade do aluno");
  al.idade = int.Parse(Console.ReadLine());
  Console.WriteLine($"Digite o RG do aluno");
- al.Rg = Console.ReadLine();
- Console.WriteLine($"Digite a média do aluno");
- al.media = int.Parse(Console.ReadLine());
+ al.Rg = Console.ReadLine()!;
+ Console.WriteLine($"O aluno é bolsista? Digite [S/N]");
+ string bolsa = Console.ReadLine()!.ToUpper();
  Console.WriteLine($"Digite o valor da mensalidade do aluno:");
-  al.valorMensalidade = float.Parse(Console.ReadLine());
+  al.valorMensalidade = float.Parse(Console.ReadLine()!);
+ 
+for (int i = 0; i < 4; i++)
+{ Console.WriteLine($"Digite a {i+1}º nota do aluno");
+ notas[i] = int.Parse(Console.ReadLine()!);
+    
+}
 
-bool bolsista = Aluno.VerMediaFinal(al.media,al.bolsista);
+al.media = Aluno.VerMediaFinal(notas);
+al.bolsista = bolsa == "S"? true : false;
 
-if (al.media >= 8){
+
+
+if (al.media >= 8 && al.bolsista == true){
     desconto = 0.50f;
 }
-else if(al.media == 7){
+else if(al.media == 7 && al.bolsista == true){
     desconto = 0.30f;
 }
 float resultado = Aluno.VerMensalidade(al.valorMensalidade, desconto);
@@ -77,7 +87,7 @@ switch (escolha)
       break;
 }
 Console.WriteLine($"Deseja voltar ao menu? Digite [S/N]");
-string menu = Console.ReadLine().ToUpper();
+string menu = Console.ReadLine()!.ToUpper();
 
 
 if(menu == "S"){
@@ -87,50 +97,3 @@ else
 {
     Environment.Exit(0);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-

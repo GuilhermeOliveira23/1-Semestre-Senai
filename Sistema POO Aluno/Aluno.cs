@@ -26,15 +26,15 @@ namespace Sistema_Orientado_a_objeto
         public int media = 0;
         public float valorMensalidade = 0f;
 
-    public static bool VerMediaFinal(int a, bool b){
-     b = a >6? true: false;
-      return b;
-
+    public static int VerMediaFinal(int[] a ){      
+    
+    int resultado = (a[0] + a[1] + a[2] + a[3]) / 4;
+    return resultado;
 
     }
     public static float VerMensalidade(float a, float b){
-   float resultado = a * b;
-   return resultado;
+    float resultado = a * b;
+    return resultado;
 
 
     }
