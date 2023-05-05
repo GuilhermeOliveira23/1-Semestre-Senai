@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\bin\Debug\net7.0\Teste Novo.exe
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\bin\Debug\net7.0\Teste Novo.deps.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\bin\Debug\net7.0\Teste Novo.runtimeconfig.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\bin\Debug\net7.0\Teste Novo.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\bin\Debug\net7.0\Teste Novo.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\obj\Debug\net7.0\Teste Novo.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\obj\Debug\net7.0\Teste Novo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\obj\Debug\net7.0\Teste Novo.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\obj\Debug\net7.0\Teste Novo.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\obj\Debug\net7.0\Teste Novo.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\obj\Debug\net7.0\Teste Novo.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\obj\Debug\net7.0\refint\Teste Novo.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\obj\Debug\net7.0\Teste Novo.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\obj\Debug\net7.0\Teste Novo.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Teste Novo\obj\Debug\net7.0\ref\Teste Novo.dll

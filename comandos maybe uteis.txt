@@ -20,6 +20,8 @@ Link do Gustavo:
 https://github.com/Gustavo-daCosta/Tecnico-DEV-S1/blob/main/Exerc%C3%ADcios%20C%23/EXC%20-%20Estruturas%20de%20Condi%C3%A7%C3%A3o/Suspeita%20de%20crime/Program.cs
 
 
+
+
 Dontpad da nossa mesa == https://dontpad.com/mesa-1-dev
 
 Guanabara Ex:https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf
@@ -38,5 +40,7 @@ alt + 1 + 6 + 7 = º
 	//Corpo da funcao
 }
 
+
+Repositório do primeiro projeto POO: https://github.com/Gustavo-daCosta/Sistema-de-Pagamento.git
 
 POO = programação orientada à objetos
