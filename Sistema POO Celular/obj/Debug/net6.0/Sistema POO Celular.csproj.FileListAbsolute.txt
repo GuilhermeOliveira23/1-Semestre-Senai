@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\bin\Debug\net6.0\Sistema POO Celular.exe
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\bin\Debug\net6.0\Sistema POO Celular.deps.json
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\bin\Debug\net6.0\Sistema POO Celular.runtimeconfig.json
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\bin\Debug\net6.0\Sistema POO Celular.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\bin\Debug\net6.0\Sistema POO Celular.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\obj\Debug\net6.0\Sistema POO Celular.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\obj\Debug\net6.0\Sistema POO Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\obj\Debug\net6.0\Sistema POO Celular.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\obj\Debug\net6.0\Sistema POO Celular.AssemblyInfo.cs
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\obj\Debug\net6.0\Sistema POO Celular.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\obj\Debug\net6.0\Sistema POO Celular.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\obj\Debug\net6.0\refint\Sistema POO Celular.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\obj\Debug\net6.0\Sistema POO Celular.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\obj\Debug\net6.0\Sistema POO Celular.genruntimeconfig.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Celular\obj\Debug\net6.0\ref\Sistema POO Celular.dll

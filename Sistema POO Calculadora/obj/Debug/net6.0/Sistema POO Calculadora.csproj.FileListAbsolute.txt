@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\bin\Debug\net6.0\Sistema POO Calculadora.exe
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\bin\Debug\net6.0\Sistema POO Calculadora.deps.json
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\bin\Debug\net6.0\Sistema POO Calculadora.runtimeconfig.json
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\bin\Debug\net6.0\Sistema POO Calculadora.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\bin\Debug\net6.0\Sistema POO Calculadora.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\obj\Debug\net6.0\Sistema POO Calculadora.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\obj\Debug\net6.0\Sistema POO Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\obj\Debug\net6.0\Sistema POO Calculadora.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\obj\Debug\net6.0\Sistema POO Calculadora.AssemblyInfo.cs
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\obj\Debug\net6.0\Sistema POO Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\obj\Debug\net6.0\Sistema POO Calculadora.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\obj\Debug\net6.0\refint\Sistema POO Calculadora.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\obj\Debug\net6.0\Sistema POO Calculadora.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\obj\Debug\net6.0\Sistema POO Calculadora.genruntimeconfig.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Sistema POO Calculadora\obj\Debug\net6.0\ref\Sistema POO Calculadora.dll
