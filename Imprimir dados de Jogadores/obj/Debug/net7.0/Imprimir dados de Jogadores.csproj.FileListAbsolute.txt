@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\bin\Debug\net7.0\Imprimir dados de Jogadores.exe
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\bin\Debug\net7.0\Imprimir dados de Jogadores.deps.json
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\bin\Debug\net7.0\Imprimir dados de Jogadores.runtimeconfig.json
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\bin\Debug\net7.0\Imprimir dados de Jogadores.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\bin\Debug\net7.0\Imprimir dados de Jogadores.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\obj\Debug\net7.0\Imprimir dados de Jogadores.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\obj\Debug\net7.0\Imprimir dados de Jogadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\obj\Debug\net7.0\Imprimir dados de Jogadores.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\obj\Debug\net7.0\Imprimir dados de Jogadores.AssemblyInfo.cs
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\obj\Debug\net7.0\Imprimir dados de Jogadores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\obj\Debug\net7.0\Imprimir dados de Jogadores.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\obj\Debug\net7.0\refint\Imprimir dados de Jogadores.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\obj\Debug\net7.0\Imprimir dados de Jogadores.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\obj\Debug\net7.0\Imprimir dados de Jogadores.genruntimeconfig.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Imprimir dados de Jogadores\obj\Debug\net7.0\ref\Imprimir dados de Jogadores.dll

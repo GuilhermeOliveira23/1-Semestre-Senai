@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\bin\Debug\net7.0\Algoritmo Máquina de café.exe
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\bin\Debug\net7.0\Algoritmo Máquina de café.deps.json
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\bin\Debug\net7.0\Algoritmo Máquina de café.runtimeconfig.json
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\bin\Debug\net7.0\Algoritmo Máquina de café.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\bin\Debug\net7.0\Algoritmo Máquina de café.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\obj\Debug\net7.0\Algoritmo Máquina de café.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\obj\Debug\net7.0\Algoritmo Máquina de café.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\obj\Debug\net7.0\Algoritmo Máquina de café.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\obj\Debug\net7.0\Algoritmo Máquina de café.AssemblyInfo.cs
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\obj\Debug\net7.0\Algoritmo Máquina de café.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\obj\Debug\net7.0\Algoritmo Máquina de café.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\obj\Debug\net7.0\refint\Algoritmo Máquina de café.dll
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\obj\Debug\net7.0\Algoritmo Máquina de café.pdb
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\obj\Debug\net7.0\Algoritmo Máquina de café.genruntimeconfig.cache
+C:\Users\User\Desktop\1-Semestre-Senai\Algoritmo Máquina de café\obj\Debug\net7.0\ref\Algoritmo Máquina de café.dll
