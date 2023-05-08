@@ -8,6 +8,7 @@ MaquinaCafe mc = new MaquinaCafe();
 
 
 voltar:
+
 Console.WriteLine($"Deseja fazer um café? [S/N]");
 string cafe = Console.ReadLine().ToUpper();
 
