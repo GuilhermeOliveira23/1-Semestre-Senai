@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\bin\Debug\net7.0\Classe Estática Dinheiro.exe
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\bin\Debug\net7.0\Classe Estática Dinheiro.deps.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\bin\Debug\net7.0\Classe Estática Dinheiro.runtimeconfig.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\bin\Debug\net7.0\Classe Estática Dinheiro.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\bin\Debug\net7.0\Classe Estática Dinheiro.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\obj\Debug\net7.0\Classe Estática Dinheiro.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\obj\Debug\net7.0\Classe Estática Dinheiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\obj\Debug\net7.0\Classe Estática Dinheiro.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\obj\Debug\net7.0\Classe Estática Dinheiro.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\obj\Debug\net7.0\Classe Estática Dinheiro.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\obj\Debug\net7.0\Classe Estática Dinheiro.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\obj\Debug\net7.0\refint\Classe Estática Dinheiro.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\obj\Debug\net7.0\Classe Estática Dinheiro.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\obj\Debug\net7.0\Classe Estática Dinheiro.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Classe Estática Dinheiro\obj\Debug\net7.0\ref\Classe Estática Dinheiro.dll

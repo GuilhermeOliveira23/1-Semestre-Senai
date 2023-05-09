@@ -44,3 +44,8 @@ alt + 1 + 6 + 7 = º
 Repositório do primeiro projeto POO: https://github.com/Gustavo-daCosta/Sistema-de-Pagamento.git
 
 POO = programação orientada à objetos
+
+
+
+
+Tryparse e parse artigo: https://balta.io/blog/csharp-parse-tryparse

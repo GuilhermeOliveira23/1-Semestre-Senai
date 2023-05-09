@@ -1,0 +1,4 @@
+Variável: nomeVariavel			pascalCase	
+Método: NomeMetodo			CamelCase
+Propriedade: NomePropriedade
+Parâmetro:
