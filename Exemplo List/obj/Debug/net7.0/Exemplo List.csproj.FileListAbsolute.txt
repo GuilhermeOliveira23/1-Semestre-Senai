@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\bin\Debug\net7.0\Exemplo List.exe
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\bin\Debug\net7.0\Exemplo List.deps.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\bin\Debug\net7.0\Exemplo List.runtimeconfig.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\bin\Debug\net7.0\Exemplo List.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\bin\Debug\net7.0\Exemplo List.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\obj\Debug\net7.0\Exemplo List.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\obj\Debug\net7.0\Exemplo List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\obj\Debug\net7.0\Exemplo List.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\obj\Debug\net7.0\Exemplo List.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\obj\Debug\net7.0\Exemplo List.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\obj\Debug\net7.0\Exemplo List.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\obj\Debug\net7.0\refint\Exemplo List.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\obj\Debug\net7.0\Exemplo List.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\obj\Debug\net7.0\Exemplo List.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exemplo List\obj\Debug\net7.0\ref\Exemplo List.dll

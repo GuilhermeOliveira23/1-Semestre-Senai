@@ -49,3 +49,14 @@ POO = programação orientada à objetos
 
 
 Tryparse e parse artigo: https://balta.io/blog/csharp-parse-tryparse
+
+
+ADD(T) adiciona um objeto ao final do List<T>
+Clear()
+Contains(T)
+Find(Predicate<T>)
+IndexOf(T,Int32, Int32)
+Insert(Int32, T)
+Remove
+
+Comandos List : https://learn.microsoft.com/pt-br/dotnet/api/system.collections.generic.list-1?view=net-7.0

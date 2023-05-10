@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\bin\Debug\net7.0\Exercicio lista.exe
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\bin\Debug\net7.0\Exercicio lista.deps.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\bin\Debug\net7.0\Exercicio lista.runtimeconfig.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\bin\Debug\net7.0\Exercicio lista.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\bin\Debug\net7.0\Exercicio lista.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\obj\Debug\net7.0\Exercicio lista.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\obj\Debug\net7.0\Exercicio lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\obj\Debug\net7.0\Exercicio lista.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\obj\Debug\net7.0\Exercicio lista.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\obj\Debug\net7.0\Exercicio lista.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\obj\Debug\net7.0\Exercicio lista.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\obj\Debug\net7.0\refint\Exercicio lista.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\obj\Debug\net7.0\Exercicio lista.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\obj\Debug\net7.0\Exercicio lista.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Exercicio lista\obj\Debug\net7.0\ref\Exercicio lista.dll
