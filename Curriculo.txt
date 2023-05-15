@@ -14,3 +14,9 @@ Outras informações - Pode colocar trabalhos voluntários
 Hobbies são utéis para dar informações ao entrevistador
 
 Quanto menos poluido o seu currículo melhor!
+
+Fazer postagens no linkedin sobre os trabalhos e exercicios que você fez
+Podendo ser um vídeo com legenda e narrado ou uma foto do código com um comentário
+
+#Backend se for uma postagem do backend
+usar o # para categorizar o seu conteúdo e ajudar a atingir o público que quer atingir

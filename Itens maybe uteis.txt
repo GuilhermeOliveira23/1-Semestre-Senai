@@ -20,8 +20,6 @@ Link do Gustavo:
 https://github.com/Gustavo-daCosta/Tecnico-DEV-S1/blob/main/Exerc%C3%ADcios%20C%23/EXC%20-%20Estruturas%20de%20Condi%C3%A7%C3%A3o/Suspeita%20de%20crime/Program.cs
 
 
-
-
 Dontpad da nossa mesa == https://dontpad.com/mesa-1-dev
 
 Guanabara Ex:https://www.cursoemvideo.com/wp-content/uploads/2019/08/exercicios-algoritmos.pdf
@@ -46,8 +44,6 @@ Repositório do primeiro projeto POO: https://github.com/Gustavo-daCosta/Sistema
 POO = programação orientada à objetos
 
 
-
-
 Tryparse e parse artigo: https://balta.io/blog/csharp-parse-tryparse
 
 
@@ -60,3 +56,4 @@ Insert(Int32, T)
 Remove
 
 Comandos List : https://learn.microsoft.com/pt-br/dotnet/api/system.collections.generic.list-1?view=net-7.0
+Feito para analisar fotos de perfil profissionalmente: https://www.snappr.com/photo-analyzer/
