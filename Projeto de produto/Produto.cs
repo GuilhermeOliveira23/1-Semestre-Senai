@@ -11,18 +11,33 @@ namespace Projeto_de_produto
         public string nomeProduto { get; set; }
         public float preco { get; set; }
         public DateTime dataCadastro { get; set; }
-        public Marca marca { get; set; }
+        public Marca Marca = new Marca();
         public Usuario cadastradoPor { get; set; }
-        public List<Produto> produtos = new List<Produto>();
+        public List<Produto> listaProdutos = new List<Produto>();
 
-        public string Cadastrar(Produto a){
+        public string Cadastrar(){
+
+Console.WriteLine($"Insira o nome do produto:");
+nomeProduto = Console.ReadLine();
+
+Console.WriteLine($"Insira o código do produto:");
+codigo = int.Parse(Console.ReadLine());
+
+Console.WriteLine($"Insira o preço do produto:");
+preco = float.Parse(Console.ReadLine());
+
+return "Produto cadastrado com sucesso";
+
+
+
 
         }
-        public void List(Produto){
+        public void Listar(){
             
         }
-        public string Deletar(Produto a){
-
+        public string Deletar(int codigo){
+            codigo = 0;
+            return "Marca deletada";
         }
 
     }

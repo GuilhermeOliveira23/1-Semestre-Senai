@@ -7,91 +7,120 @@ namespace Projeto_de_produto
 {
     public class Login
     {
-        List<Produto>
-    Produto produto = new Produto();
-    Marca marca = new Marca();
-    List<Marca> marcas = new List<Marca>();
+
+
+        Marca marca = new Marca();
+        List<Marca> marcas = new List<Marca>();
         public bool logado { get; set; }
 
-        // public Login(string email, string senha){
-        //     email = "Free";
-        //     senha = "1234";
-        // }
-
-        public  Login()
+        public Login()
         {
-            Console.WriteLine($"Digite o seu email:");
-            string email = Console.ReadLine();
-            voltar :
-            Console.WriteLine($"Digite a sua senha:");
-            string senha = Console.ReadLine();
+            Usuario user = new Usuario();
+            Logar(user);
 
-            if (senha != "1234" || email != "Guilherme")
-            {
-                Console.WriteLine($"Errado, tente novamente");
-               goto voltar; 
-            }
 
-            Console.WriteLine($@"Escolha o que deseja fazer
+
+
+
+        }
+    
+
+    public void Logar(Usuario usuario)
+    {
+        Console.WriteLine($"Informe o email:");
+        string emailDigitada = Console.ReadLine();
+       
+        Console.WriteLine($"Informe a senha:");
+        string senhaDigitada = Console.ReadLine();
+
+        if (emailDigitada == usuario.email && senhaDigitada == usuario.senha)
+        {   
+            this.logado = true;
+            Console.WriteLine($"Login efetuado com sucesso");
+            
+        }
+        else{
+            logado = false;
+            Console.WriteLine($"Falha ao logar");
+            
+        }
+        
+
+    }
+    public void Deslogar()
+    {
+        logado = false;
+    }
+    public void MostrarMenu(Usuario a)
+    {
+       
+    string opcao;
+        Produto produto = new Produto();
+        Marca marca = new Marca();
+    do{
+        Console.WriteLine($@"Escolha o que deseja fazer
             
                 [1] Cadastrar Produto
                 [2] Listar Produto
                 [3] Remover produto
-                [4] Cadastrar usuario
-                [5] Remover usuario
-                [6]
-
-            
-            
-            
-            
+                -------------------
+                [4] Cadastrar Marca
+                [5] Listar Marca
+                [6] Remover Marca            
             
             ");
-            string opcao = Console.ReadLine()!;
+        opcao = Console.ReadLine()!;
+
+        switch (opcao)
+        {
+            case "1":
+
+            produto.Cadastrar();
+
+
+
+
+
+
+
+                break;
+            case "2":
+            produto.Listar();
+
+                break;
+            case "3":
+            Console.WriteLine($"Informe o codigo a ser excluido:");
+            int codigoProduto = int.Parse(Console.ReadLine());
             
-            switch (opcao)
-            {
-                case "1":
-                Console.WriteLine($"Nome do produto:");
-                
-                
-                Console.WriteLine($"Marca do produto");
-                marca.nomeMarca = Console.ReadLine();
-                
-               marcas.Add(marca.nomeMarca);
+            produto.Deletar(codigoProduto);
 
-                Console.WriteLine($"Preco do produto");
-                
-                
-                
-                
-                
+                break;
+            case "4":
+            marca.Cadastrar();
 
-                
+                break;
+            case "5":
+            marca.Listar();
 
-                    break;
-                case "2":
-
-                    break;
-                case "3":
-                
-                    break;
-                case "4":
-
-                    break;
-                default:
-                    break;
-            }
+                break;
+            case "6":
+            Console.WriteLine($"Informe o codigo a ser excluido:");
+            int codigoMarca = int.Parse(Console.ReadLine());
             
-        
+            marca.Deletar(codigoMarca);
+
+                break;
+                case "0":
+                Console.WriteLine($"App encerrado");
+
+                break;
+                
+            default:
+            Console.WriteLine($"Opção inválida!!");
             
+                break;
         }
-
-        public string Logar(Usuario){
-
-        }
-        public string Deslogar(Usuario){
-
-        }
+    }while( opcao != "0");
     }
+}
 }

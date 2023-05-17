@@ -10,43 +10,41 @@ namespace Projeto_de_produto
         public int codigo { get; set; }
         public string nome { get; set; }
         public string email { get; set; }
-        public int senha { get; set; }
+        public string senha { get; set; }
         public DateTime DataCadastro { get; set;}
 
-        
+        // List<Usuario> usuario  = new List<Usuario>();
+        public Usuario()
+        {
+            Cadastrar();
+        }
     
 
-        public string Cadastrar()
+        public void Cadastrar()
 
         {
+            Usuario user = new Usuario();
 
-            
-            Console.WriteLine($"Digite o seu nome:");
-            nome = Console.ReadLine();
-            
-            
 
-            Console.WriteLine($"Digite o seu email:");
-            email = Console.ReadLine();
-            
-
-            Console.WriteLine($"Digite a sua senha:");
-            senha = int.Parse(Console.ReadLine());
+            this.nome = "Guilherme";
+            this.email = "oliver";
+            this.senha = "1234";
+            this.codigo = 223;
+            DataCadastro = DateTime.Now;
             
 
-            Console.WriteLine($"Digite o seu codigo:");
-            codigo = int.Parse(Console.ReadLine());
-
-            
-            return "Cadastro com sucesso";
-            
-            
             
             
         }
         public string Deletar(Usuario a){
 
+            nome = " ";
+            email = " ";
+            senha = " ";
+            codigo = 0;
+            DataCadastro = DateTime.Parse("000-00-00T00:00");
             
+            return "Informações removidas";
         }
     }
 }

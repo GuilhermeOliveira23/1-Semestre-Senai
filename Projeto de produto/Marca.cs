@@ -10,14 +10,49 @@ namespace Projeto_de_produto
         public int codigo { get; set; }
         public string nomeMarca { get; set; }
         public DateTime dataCadastro { get; set; }
+        List<Marca> listaMarcas = new List<Marca>();
+        public string Cadastrar(){
 
-        public string Cadastrar(Marca a){
 
+            Console.WriteLine($"Digite o nome da marca:");
+            nomeMarca = Console.ReadLine();
+            
+            Console.WriteLine($"Digite o codigo da marca:");
+            codigo = int.Parse(Console.ReadLine());
+            dataCadastro = DateTime.Now;
+
+            Marca marca = new Marca();
+            
+            marca.nomeMarca = nomeMarca;
+            marca.codigo = codigo;
+
+            listaMarcas.Add(marca);
+            
+            return "Marca Registrada";
+
+            
+            
         }
         public void Listar(){
-            List<Marca> marcas = new List<Marca>();
+            foreach (var item in listaMarcas)
+            {
+                Console.WriteLine($"Nome da marca: {item.nomeMarca}");
+                Console.WriteLine($"Código da marca: {item.codigo}");
+            }
+            
+            
         }
-        public string Deletar(Marca a){
+        public string Deletar(int Codigo){
+      
+
+            Marca p = listaMarcas.Find(x => x.codigo == Codigo);
+
+            listaMarcas.Remove(p);
+
+
+            return "Marca deletada com sucesso";
+
+
             
         }
         
