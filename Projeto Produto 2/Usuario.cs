@@ -17,13 +17,27 @@ namespace Projeto_Produto_2
         {
             Cadastrar();
         }
+        public Usuario(string b){
+
+        }
 
         public void Cadastrar()
-        {
-            this.Nome = "Guilherme";
-            this.Email= "oliver@gmail.com";
-            this.Senha = "1234";
-            this.DataCadastro = DateTime.Now;
+        {   
+
+        
+
+            Console.WriteLine($"Insira o seu nome:");
+            this.Nome = Console.ReadLine();
+
+            Console.WriteLine($"Insira o seu email:");
+            this.Email= Console.ReadLine();
+            
+            Console.WriteLine($"Insira a sua senha:");
+            this.Senha = Console.ReadLine();
+
+            
+            
+            this.DataCadastro = DateTime.UtcNow;
         }
 
         public void Deletar()
@@ -31,7 +45,8 @@ namespace Projeto_Produto_2
             this.Nome = "";
             this.Email= "";
             this.Senha = "";
-            this.DataCadastro = DateTime.Parse("0000-00-00T00:00:00");
+            
+
         }       
     }
 }

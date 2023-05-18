@@ -116,7 +116,7 @@ namespace Projeto_de_produto
                 break;
                 
             default:
-            Console.WriteLine($"Opção inválida!!");
+            Console.WriteLine($"Opção inválida!");
             
                 break;
         }

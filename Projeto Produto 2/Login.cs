@@ -11,11 +11,32 @@ namespace Projeto_Produto_2
 
         public Login()
         {
-            //aqui vai a lógica       
+                 
             Usuario user = new Usuario();
+            
+            Console.WriteLine($"Deseja Deletar o seu Cadastro?[s/n]");
+            string DeletarCadastro = Console.ReadLine().ToUpper();
+            
 
-            //validar se esta logado
+           if (DeletarCadastro == "S" )
+           {
+            user.Deletar();
+
+            user.Cadastrar();
+            
+            Console.WriteLine($"Cadastre-se novamente!");
+
+            
+           }
+           
+            
+
+            
+
+            
             Logar(user);
+        
+            
 
             if (Logado == true)
             {
@@ -25,7 +46,7 @@ namespace Projeto_Produto_2
 
         public void Logar(Usuario usuario)
         {
-            //aqui vai a lógica
+            
             Console.WriteLine($"Insira seu email: ");
             string email = Console.ReadLine();
 
@@ -51,6 +72,8 @@ namespace Projeto_Produto_2
 
         public void GerarMenu()
         {
+
+            // Usuario user = new Usuario("aa");
             Produto produto = new Produto();
             Marca marca = new Marca();
 
@@ -66,6 +89,8 @@ namespace Projeto_Produto_2
             [4] - Cadastrar Marca
             [5] - Listar Marcas
             [6] - Remover Marca
+            ---------------------
+            [7] Remover Cadastro
 
             [0] - Sair
             ");
@@ -75,37 +100,42 @@ namespace Projeto_Produto_2
                 switch (opcao)
                 {
                     case "1":
-                        //cadastrar
+                        
                         produto.Cadastrar();
                         break;
                     case "2":
-                        //listar
+                        
                         produto.Listar();
                         break;
                     case "3":
-                        //remover
+                        
                         Console.WriteLine($"Informe o código a ser removido: ");
                         int codigoProduto = int.Parse(Console.ReadLine());
 
                         produto.Deletar(codigoProduto);
                         break;
                     case "4":
-                        //cadastrar
+                        
                         marca.Cadastrar();
                         break;
                     case "5":
-                        //listar
+                        
                         marca.Listar();
                         break;
                     case "6":
-                        //remover
+                        
                         Console.WriteLine($"Informe o código a ser removido: ");
                         int codigoMarca = int.Parse(Console.ReadLine());
 
                         marca.Deletar(codigoMarca);
                         break;
+
+                        // case "7":
+                        // user.Deletar();
+
+                        // break;
                     case "0":
-                        //sair
+                        
                         Console.WriteLine($"App encerrado !");
                         break;
                     default:

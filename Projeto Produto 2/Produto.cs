@@ -27,7 +27,10 @@ namespace Projeto_Produto_2
 
         Console.WriteLine($"Insira o preço do produto:");
         p.Preco = float.Parse(Console.ReadLine());
+        p.DataCadastro = DateTime.Now;
         listaDeProdutos.Add(p);
+
+        
 
 
 
@@ -35,18 +38,32 @@ namespace Projeto_Produto_2
 
         public void Listar()
         {
-            foreach (var item in collection)
-            {
-                //aqui vai a lógica
-                //exibir os objetos cadastrados na lista
+            foreach (var item in listaDeProdutos)
+            {   
+
+                Console.WriteLine($"-------------Produto------------");
+                Console.WriteLine($"");
+                
+                Console.WriteLine($"Nome: {item.NomeProduto}");
+                Console.WriteLine($"Código: {item.Codigo}");
+                Console.WriteLine($"Preço: {item.Preco} ");
+                Console.WriteLine($"Data do cadastro: {item.DataCadastro}");
+                // Falta a parte do cadastrado por e a parte onde registra o código
+            
+                Console.WriteLine($"");
+                Console.WriteLine($"--------------------------------");
+                
+                
             }
         }
         
         public void Deletar(int codigo)
         {
-            //aqui vai a lógica
-            //buscar um objeto na lista pelo seu código
-            //remove-lo
+            Produto p = listaDeProdutos.Find(x =>x.Codigo == codigo);
+            
+            listaDeProdutos.Remove(p);
+            
+            
         }
     }
 }

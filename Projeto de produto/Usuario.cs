@@ -25,10 +25,13 @@ namespace Projeto_de_produto
         {
             Usuario user = new Usuario();
 
-
+            Console.WriteLine($"Insira o seu nome:");
             this.nome = "Guilherme";
+            Console.WriteLine($"Insira o seu email:");
             this.email = "oliver";
+            Console.WriteLine($"Insira a sua senha:");
             this.senha = "1234";
+            Console.WriteLine($"Insira o seu código:");
             this.codigo = 223;
             DataCadastro = DateTime.Now;
             
