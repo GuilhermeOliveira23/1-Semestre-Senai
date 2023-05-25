@@ -21,9 +21,9 @@ namespace Console_MVC.Controller
 
         public void Cadastrar(){
 
-
            Produto novoProduto = produtoView.Cadastrar();
            produto.Inserir(novoProduto);
+           
 
         }
     }

@@ -1,0 +1,15 @@
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\bin\Debug\net7.0\Cadastrar Eventos MVC.exe
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\bin\Debug\net7.0\Cadastrar Eventos MVC.deps.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\bin\Debug\net7.0\Cadastrar Eventos MVC.runtimeconfig.json
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\bin\Debug\net7.0\Cadastrar Eventos MVC.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\bin\Debug\net7.0\Cadastrar Eventos MVC.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\obj\Debug\net7.0\Cadastrar Eventos MVC.csproj.AssemblyReference.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\obj\Debug\net7.0\Cadastrar Eventos MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\obj\Debug\net7.0\Cadastrar Eventos MVC.AssemblyInfoInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\obj\Debug\net7.0\Cadastrar Eventos MVC.AssemblyInfo.cs
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\obj\Debug\net7.0\Cadastrar Eventos MVC.csproj.CoreCompileInputs.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\obj\Debug\net7.0\Cadastrar Eventos MVC.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\obj\Debug\net7.0\refint\Cadastrar Eventos MVC.dll
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\obj\Debug\net7.0\Cadastrar Eventos MVC.pdb
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\obj\Debug\net7.0\Cadastrar Eventos MVC.genruntimeconfig.cache
+C:\Users\54823324897\Desktop\1-Semestre-Senai\Cadastrar Eventos MVC\obj\Debug\net7.0\ref\Cadastrar Eventos MVC.dll
