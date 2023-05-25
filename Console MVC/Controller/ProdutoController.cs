@@ -11,11 +11,19 @@ namespace Console_MVC.Controller
     {
         Produto produto = new Produto();
         ProdutoView produtoView = new ProdutoView();
-        public void ListaProdutos(){
+        public void ListarProdutos(){
         // chamada da model trazendo a lista
         List<Produto> produtos = produto.Ler();
         // chamada da view passando a lista
         produtoView.Listar(produtos);
+
+        }
+
+        public void Cadastrar(){
+
+
+           Produto novoProduto = produtoView.Cadastrar();
+           produto.Inserir(novoProduto);
 
         }
     }

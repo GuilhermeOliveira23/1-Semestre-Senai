@@ -4,4 +4,6 @@ using Console_MVC.Model;
 Produto p = new Produto();
 ProdutoController controller = new ProdutoController();
 
-controller.ListaProdutos();
+
+controller.Cadastrar();
+controller.ListarProdutos();
