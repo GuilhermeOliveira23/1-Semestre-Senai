@@ -19,7 +19,7 @@ public Eventos(){
     {
         Directory.CreateDirectory(pasta);
     }
-    if (!File.Exists(pasta))
+    if (!File.Exists(PATH))
     {
         File.Create(PATH);
     }

@@ -25,5 +25,9 @@ namespace Cadastrar_Eventos_MVC.Controller
 
         }
 
+        public void MostrarMenu(){
+            
+        }
+
     }
 }
