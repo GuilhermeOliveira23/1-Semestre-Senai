@@ -4,5 +4,4 @@ using Cadastrar_Eventos_MVC.Model;
 
 Eventos eventos = new Eventos();
 EventosController  eventosController = new EventosController();
-eventosController.Cadastrar();
-eventosController.ListarEventos();
+eventosController.MostrarMenu();

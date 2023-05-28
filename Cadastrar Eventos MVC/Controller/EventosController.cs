@@ -26,7 +26,10 @@ namespace Cadastrar_Eventos_MVC.Controller
         }
 
         public void MostrarMenu(){
-            
+            eventoView.GerarMenu();
+        }
+        public void DeletarEvento(){
+
         }
 
     }

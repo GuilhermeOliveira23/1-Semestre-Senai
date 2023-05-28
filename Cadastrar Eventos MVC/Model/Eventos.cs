@@ -45,6 +45,7 @@ foreach (var item in linhas)
 return eventos;
 }
 
+
 public string PrepararLinhasCSV(Eventos evento){
 
     return $"{evento.Nome}; {evento.Data}; {evento.Descricao}";
