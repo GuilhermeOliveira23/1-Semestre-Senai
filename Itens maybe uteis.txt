@@ -57,3 +57,12 @@ Remove
 
 Comandos List : https://learn.microsoft.com/pt-br/dotnet/api/system.collections.generic.list-1?view=net-7.0
 Feito para analisar fotos de perfil profissionalmente: https://www.snappr.com/photo-analyzer/
+
+				SQL
+Banco relacional - com tabelas
+Banco não relacional - sem tabelas
+
+dotnet dev-certs https --trust
+Expressões regulares - ver um pouco depois
+
+dotnet build
