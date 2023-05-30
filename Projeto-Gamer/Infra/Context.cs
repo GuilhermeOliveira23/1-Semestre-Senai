@@ -11,8 +11,8 @@ namespace Projeto_Gamer.Infra
     public class Context : DbContext
     {
         public Context()
-        {    
-            
+        {
+
         }
         public Context(DbContextOptions<Context> options) : base(options)
         {
@@ -22,7 +22,7 @@ namespace Projeto_Gamer.Infra
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source = NOTE14-S15; initial catalog = gamerTarde; Integrated Security = true; TrustServerCertificate = true");
+                optionsBuilder.UseSqlServer("Data Source = NOTE14-S15; initial catalog = gamerTarde; User Id=sa; pwd=Senai@134; TrustServerCertificate = true ");
             }
         }
         public DbSet<Jogador> Jogador {get ; set;}

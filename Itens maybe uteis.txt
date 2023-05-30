@@ -66,3 +66,8 @@ dotnet dev-certs https --trust
 Expressões regulares - ver um pouco depois
 
 dotnet build
+
+sa
+Senai@134
+
+dotnet ef database update
