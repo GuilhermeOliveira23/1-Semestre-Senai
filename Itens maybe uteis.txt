@@ -71,3 +71,9 @@ sa
 Senai@134
 
 dotnet ef database update
+O "name" é o componente que o back-end vai pegar
+Enctype possibilita arquivo a 
+
+Select * from Equipe
+insert into Equipe(Nome){4
+}
