@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gMLYX1T1O8kp8otoz6Ddp9NwKXkTQIsF5FnKZc8tnHY=",
+  "Hash": "O+tWaxEYaa34Dvdw7y/VRFIHmwi4JhyRJunTqdmAmuY=",
   "Source": "Projeto-Gamer",
   "BasePath": "_content/Projeto-Gamer",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Projeto-Gamer\\wwwroot\\img\\Equipes\\barcelona.png",
+      "SourceId": "Projeto-Gamer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Projeto-Gamer\\wwwroot\\",
+      "BasePath": "_content/Projeto-Gamer",
+      "RelativePath": "img/Equipes/barcelona.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\barcelona.png"
+    },
+    {
+      "Identity": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Projeto-Gamer\\wwwroot\\img\\Equipes\\pngwing.com.png",
+      "SourceId": "Projeto-Gamer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Projeto-Gamer\\wwwroot\\",
+      "BasePath": "_content/Projeto-Gamer",
+      "RelativePath": "img/Equipes/pngwing.com.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\pngwing.com.png"
     },
     {
       "Identity": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Projeto-Gamer\\wwwroot\\js\\site.js",

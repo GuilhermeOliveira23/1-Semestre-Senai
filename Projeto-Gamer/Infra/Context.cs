@@ -10,9 +10,10 @@ namespace Projeto_Gamer.Infra
     //a classe Context conecta o projeto com banco de dados
     public class Context : DbContext
     {
+        // interage com o banco de dados
         public Context()
         {
-
+            
         }
         public Context(DbContextOptions<Context> options) : base(options)
         {

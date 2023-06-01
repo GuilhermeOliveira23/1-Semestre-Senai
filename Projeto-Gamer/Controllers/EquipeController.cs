@@ -48,11 +48,15 @@ namespace Projeto_Gamer.Controllers
             // novaEquipe.Imagem = form["Imagem"].ToString();
 
             // aqui começa a lógica do upload de imagem
+
+            //se quantidade de arquivos for maior que 0
             if (form.Files.Count > 0)
             {
+                // file é igual a posição zero dos arquivos de form
                 var file = form.Files[0];
-
+                // folder é igual ao caminho combinado do diretório atual + o caminho da root até Equipes
                 var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipes");
+                // se diretório existir 
                  if (!Directory.Exists(folder))
                  {
                     Directory.CreateDirectory(folder);
@@ -87,5 +91,72 @@ namespace Projeto_Gamer.Controllers
         {
             return View("Error!");
         }
+
+        [Route("Excluir/{id}")]
+        public IActionResult Excluir(int id)
+        {
+       Equipe e = c.Equipe.First( e => e.IdEquipe == id);
+
+       c.Equipe.Remove(e);
+
+       c.SaveChanges();
+
+       //vai dar "refresh" na página
+       return LocalRedirect("~/Equipe/Listar");
+
+        }
+        [Route("Editar/{id}")]
+        public IActionResult Editar(int id)
+        {
+
+            Equipe e = c.Equipe.First(e => e.IdEquipe == id);
+            ViewBag.Equipe = e;
+            return View("Edit");
+        }
+
+            [Route("Atualizar")]
+            public IActionResult Atualizar(IFormCollection form, Equipe e)
+            {
+                Equipe novaEquipe = new Equipe();
+                novaEquipe.Nome = e.Nome;
+
+                //upload da imagem na equipe nova(atualizada)
+                if (form.Files.Count > 0)
+                {
+                    var file = form.Files[0];
+                    var folder = Path.Combine(Directory.GetCurrentDirectory(), "www.root/img/Equipes");
+
+                    if (!Directory.Exists(folder))
+                    {
+                        Directory.CreateDirectory(folder);
+                    }
+                    var path = Path.Combine(folder, file.FileName);
+                    
+                    
+                    using (var stream = new FileStream(path, FileMode.Create))
+                    {
+                        file.CopyTo(stream);
+                    }
+                    novaEquipe.Imagem = file.Name;
+                    }
+                    else
+                    {
+                        novaEquipe.Imagem = "padrao.png";
+                    }
+
+                    Equipe equipe = c.Equipe.First(x => x.IdEquipe == e.IdEquipe);
+
+                equipe.Nome = novaEquipe.Nome;
+                equipe.Imagem = novaEquipe.Imagem;
+
+                c.Equipe.Update(equipe);
+
+                c.SaveChanges();
+                
+
+                
+                return LocalRedirect("~/Equipe/Listar");
+            }
+        
     }
 }
