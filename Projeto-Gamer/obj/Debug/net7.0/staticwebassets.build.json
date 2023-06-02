@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O+tWaxEYaa34Dvdw7y/VRFIHmwi4JhyRJunTqdmAmuY=",
+  "Hash": "zHi0bkM5NNoNCb/1ZdsR7Smkjjsqa2GCxlYSG1b6jkw=",
   "Source": "Projeto-Gamer",
   "BasePath": "_content/Projeto-Gamer",
   "Mode": "Default",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\barcelona.png"
     },
     {
-      "Identity": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Projeto-Gamer\\wwwroot\\img\\Equipes\\pngwing.com.png",
+      "Identity": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Projeto-Gamer\\wwwroot\\img\\Equipes\\padrao.png",
       "SourceId": "Projeto-Gamer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Projeto-Gamer\\wwwroot\\",
       "BasePath": "_content/Projeto-Gamer",
-      "RelativePath": "img/Equipes/pngwing.com.png",
+      "RelativePath": "img/Equipes/padrao.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,7 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Equipes\\pngwing.com.png"
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\padrao.png"
     },
     {
       "Identity": "C:\\Users\\54823324897\\Desktop\\1-Semestre-Senai\\Projeto-Gamer\\wwwroot\\js\\site.js",

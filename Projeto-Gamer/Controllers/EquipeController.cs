@@ -154,7 +154,6 @@ namespace Projeto_Gamer.Controllers
                 c.SaveChanges();
                 
 
-                
                 return LocalRedirect("~/Equipe/Listar");
             }
         

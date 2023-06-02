@@ -77,3 +77,5 @@ Enctype possibilita arquivo a
 Select * from Equipe
 insert into Equipe(Nome){4
 }
+
+Delete from Jogador where IdJogador = 2

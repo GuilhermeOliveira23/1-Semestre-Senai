@@ -1,0 +1,65 @@
+@model Jogador
+
+@{
+    ViewData["Title"] = "Jogador";
+}
+<h1>Tela de Jogadores</h1>
+
+<form method="post" action="">
+
+<label for="">Nome</label>
+<input type="text" name="Nome">
+
+<label for="">Seleção</label>
+<select name="" id="">
+    @foreach (var item in ViewBag.Equipe)
+    {
+    <option value="">@item.Nome</option>
+    }
+</select>
+
+<button type="submit">Cadastrar</button>
+
+
+</form>
+
+@* <select name="" id="">
+    @foreach (var item in ViewBag.Equipe)
+    {
+    <option value="">@item.Nome</option>
+    } *@
+
+
+
+</select>
+<table class="table table-striped table-responsive">
+    <thead>
+        <th>Id</th>
+        <th>Nome</th>
+        <th>Email</th>
+        <th>Senha</th>
+        <th>IdEquipe</th>
+
+    </thead>
+
+
+    <tbody>
+
+        @foreach (Jogador jogador in ViewBag.Jogador)
+        {
+            <tr>
+
+                
+                <td>@jogador.IdJogador</td>
+                <td>@jogador.Nome</td>
+
+
+                <td>@jogador.Email</td>
+                <td>@jogador.Senha</td>
+                <td>@jogador.IdEquipe</td>
+
+            </tr>
+        }
+    </tbody>
+
+</table>
