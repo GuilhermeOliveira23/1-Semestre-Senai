@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Projeto_Gamer.Infra;
+using Projeto_Gamer.Models;
 
 namespace Projeto_Gamer.Controllers
 {
@@ -28,11 +29,38 @@ namespace Projeto_Gamer.Controllers
 
             return View();
         }
-        // public IActionResult Cadastrar(){
+
+    
 
 
+        [Route("Cadastrar")]
+         public IActionResult Cadastrar(IFormCollection form, string a){
+            Jogador novoJogador = new Jogador();
+            novoJogador.Nome = form["Nome"].ToString();
+            novoJogador.Email = form["Email"].ToString();
+            novoJogador.Senha = form["Senha"].ToString();
 
-        // }
+
+            
+            
+            
+            
+            
+            
+            // novoJogador.IdEquipe = form["Times"];
+            
+            
+
+
+            c.Jogador.Add(novoJogador);
+            c.SaveChanges();
+            
+            
+            
+
+
+            return LocalRedirect("~/Jogador/Listar");
+         }
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

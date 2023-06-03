@@ -5,17 +5,25 @@
 }
 <h1>Tela de Jogadores</h1>
 
-<form method="post" action="">
+<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
 
 <label for="">Nome</label>
 <input type="text" name="Nome">
 
-<label for="">Seleção</label>
-<select name="" id="">
+<label for="">Email</label>
+<input type="text" name="Email">
+
+<label for="">Senha</label>
+<input type="text" name="Senha">
+
+<label for="">Times</label>
+<select name="Equipes" id="Times">
     @foreach (var item in ViewBag.Equipe)
     {
-    <option value="">@item.Nome</option>
+    <option value="">@item.IdEquipe</option>
     }
+    <input type="submit" name="buttonOk">
+
 </select>
 
 <button type="submit">Cadastrar</button>
