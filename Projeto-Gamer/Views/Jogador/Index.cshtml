@@ -5,29 +5,35 @@
 }
 <h1>Tela de Jogadores</h1>
 
-<form method="post" action="">
 
-<label for="">Nome</label>
-<input type="text" name="Nome">
 
-<label for="">Seleção</label>
-<select name="" id="">
-    @foreach (var item in ViewBag.Equipe)
-    {
-    <option value="">@item.Nome</option>
-    }
-</select>
+<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
 
-<button type="submit">Cadastrar</button>
+    <label for="">Nome</label>
+    <input type="text" name="Nome">
+
+    <label for="">Email</label>
+    <input type="text" name="Email">
+
+    <label for="">Senha</label>
+    <input type="text" name="Senha">
+
+    <label for="">Equipes</label>
+    <select name="Equipes" id="Times">
+
+        @foreach (var item in ViewBag.Equipe)
+        {
+            <option value="@item.IdEquipe">@item.Nome</option>
+        }
+
+    </select>
+
+    <button type="submit">Cadastrar</button>
 
 
 </form>
 
-@* <select name="" id="">
-    @foreach (var item in ViewBag.Equipe)
-    {
-    <option value="">@item.Nome</option>
-    } *@
+
 
 
 
@@ -37,8 +43,7 @@
         <th>Id</th>
         <th>Nome</th>
         <th>Email</th>
-        <th>Senha</th>
-        <th>IdEquipe</th>
+        <th>Equipe</th>
 
     </thead>
 
@@ -49,14 +54,13 @@
         {
             <tr>
 
-                
+
                 <td>@jogador.IdJogador</td>
                 <td>@jogador.Nome</td>
-
-
                 <td>@jogador.Email</td>
-                <td>@jogador.Senha</td>
-                <td>@jogador.IdEquipe</td>
+                <td>
+                    <img src="/img/Equipes/@jogador.Equipe.Imagem" alt="Imagem da equipe @jogador.Equipe.Nome" width="50px">
+                </td>
 
             </tr>
         }
