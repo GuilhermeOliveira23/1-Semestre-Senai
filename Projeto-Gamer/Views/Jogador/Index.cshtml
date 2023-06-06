@@ -7,7 +7,7 @@
 
 
 
-<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
+<form method="post" action="@Url.Action("Cadastrar")">
 
     <label for="">Nome</label>
     <input type="text" name="Nome">
@@ -20,6 +20,7 @@
 
     <label for="">Equipes</label>
     <select name="Equipes" id="Times">
+        <option value="0">Selecione uma Equipe</option>
 
         @foreach (var item in ViewBag.Equipe)
         {
@@ -60,6 +61,13 @@
                 <td>@jogador.Email</td>
                 <td>
                     <img src="/img/Equipes/@jogador.Equipe.Imagem" alt="Imagem da equipe @jogador.Equipe.Nome" width="50px">
+                </td>
+                <td>
+                    <a asp-area="" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@jogador.IdJogador">Excluir</a>
+                </td>
+
+                <td>
+                    <a asp-area="" asp-controller="Jogador" asp-action="Editar" asp-route-id="@jogador.IdJogador">Editar</a>
                 </td>
 
             </tr>
