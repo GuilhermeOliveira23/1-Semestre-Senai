@@ -33,6 +33,7 @@ namespace Projeto_Gamer.Controllers
         {
             // "mochila" que contém a lista das equipes
             // podemos usar essa "mochila" na view de equipe
+            ViewBag.UserName= HttpContext.Session.GetString("UserName");
             ViewBag.Equipe = c.Equipe.ToList();
             // retorna a view de equipe
             return View();
@@ -108,9 +109,12 @@ namespace Projeto_Gamer.Controllers
         [Route("Editar/{id}")]
         public IActionResult Editar(int id)
         {
+            ViewBag.UserName= HttpContext.Session.GetString("UserName");
 
             Equipe e = c.Equipe.First(e => e.IdEquipe == id);
+
             ViewBag.Equipe = e;
+            
             return View("Edit");
         }
 

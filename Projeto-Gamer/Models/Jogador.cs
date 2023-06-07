@@ -19,8 +19,6 @@ namespace Projeto_Gamer.Models
         [ForeignKey("Equipe")]
         public int IdEquipe { get; set; }
         public Equipe Equipe { get; set; }
-
-
-
+        
     }
 }
