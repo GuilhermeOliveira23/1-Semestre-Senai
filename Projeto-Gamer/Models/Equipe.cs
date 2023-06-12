@@ -14,6 +14,5 @@ namespace Projeto_Gamer.Models
         public string Imagem { get; set; }
 
         public ICollection<Jogador> Jogador { get; set; }
-        
     }
 }

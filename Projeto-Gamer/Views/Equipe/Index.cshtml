@@ -6,6 +6,12 @@
 
 <h1>Tela de Equipes</h1>
 
+@if (ViewBag.UserName == null)
+{
+    <h2>Faça o login primeiro !!!</h2>
+}
+else{
+
 <form method= "post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
 
 <label for="">Nome</label>
@@ -54,3 +60,4 @@
     
     </tbody>
 </table>
+}

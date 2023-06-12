@@ -6,8 +6,11 @@
 <h1>Tela de Jogadores</h1>
 
 
-
-<form method="post" action="@Url.Action("Cadastrar")">
+@if (ViewBag.UserName == null)
+{
+    <h2>Faça o login primeiro !!!</h2>
+}else{
+    <form method="post" action="@Url.Action("Cadastrar")">
 
     <label for="">Nome</label>
     <input type="text" name="Nome">
@@ -38,7 +41,9 @@
 
 
 
-</select>
+
+
+
 <table class="table table-striped table-responsive">
     <thead>
         <th>Id</th>
@@ -75,3 +80,4 @@
     </tbody>
 
 </table>
+}

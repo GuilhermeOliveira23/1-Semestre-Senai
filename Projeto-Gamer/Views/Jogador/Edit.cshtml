@@ -7,8 +7,13 @@
 }
 
 <h2>Edição De Jogadores</h2>
-
-<form method="post" action="@Url.Action("Atualizar")">
+@if (ViewBag.UserName == null)
+{
+    <h2>Faça Login primeiro !!!</h2>
+}
+else
+{
+    <form method="post" action="@Url.Action("Atualizar")">
 
 <input type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador">
 
@@ -41,3 +46,5 @@
     <button type ="submit">Cadastrar</button>
 
 </form>
+
+}

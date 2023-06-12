@@ -8,7 +8,12 @@
 @*Tem que ter enctype se tiver uma imagem dentro do formulario*@
 @*coloca no method post, se não ele funciona como get *@
 @*  *@
- <form method="post" action="@Url.Action("Atualizar")"  enctype="multipart/form-data"> 
+@if (ViewBag.UserName == null)
+{
+    <h2>Faça o login primeiro!!!</h2>
+}
+else{
+     <form method="post" action="@Url.Action("Atualizar")"  enctype="multipart/form-data"> 
 
 <input type="hidden" name = "IdEquipe" value = "@ViewBag.Equipe.IdEquipe">
 
@@ -26,3 +31,4 @@
 
 
 </form>
+}
