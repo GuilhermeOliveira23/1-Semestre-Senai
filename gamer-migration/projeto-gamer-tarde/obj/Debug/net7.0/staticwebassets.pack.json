@@ -253,8 +253,8 @@
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\css\\jogador.css",
-      "PackagePath": "staticwebassets\\css\\jogador.css"
+      "Id": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\css\\jogadores.css",
+      "PackagePath": "staticwebassets\\css\\jogadores.css"
     },
     {
       "Id": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\css\\login.css",
@@ -367,6 +367,10 @@
     {
       "Id": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\img\\Equipes\\bahia.png",
       "PackagePath": "staticwebassets\\img\\Equipes\\bahia.png"
+    },
+    {
+      "Id": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\img\\Equipes\\barcelona.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\barcelona.png"
     },
     {
       "Id": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\img\\Equipes\\ibis.png",

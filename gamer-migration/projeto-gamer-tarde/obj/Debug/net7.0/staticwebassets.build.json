@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WNHedwQkRVTzeMWqsr4D5okt12l9wnRPw1VuOxYr4+Q=",
+  "Hash": "Tkqc/6PgDwz1SxQ3aAPObuJXjmPBQ2fDLBAXQLTQbIE=",
   "Source": "projeto-gamer-tarde",
   "BasePath": "_content/projeto-gamer-tarde",
   "Mode": "Default",
@@ -1105,12 +1105,12 @@
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
-      "Identity": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\css\\jogador.css",
+      "Identity": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\css\\jogadores.css",
       "SourceId": "projeto-gamer-tarde",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\",
       "BasePath": "_content/projeto-gamer-tarde",
-      "RelativePath": "css/jogador.css",
+      "RelativePath": "css/jogadores.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,7 +1119,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\jogador.css"
+      "OriginalItemSpec": "wwwroot\\css\\jogadores.css"
     },
     {
       "Identity": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\css\\login.css",
@@ -1596,6 +1596,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\bahia.png"
+    },
+    {
+      "Identity": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\img\\Equipes\\barcelona.png",
+      "SourceId": "projeto-gamer-tarde",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-tarde",
+      "RelativePath": "img/Equipes/barcelona.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\barcelona.png"
     },
     {
       "Identity": "C:\\Users\\54823324897\\Desktop\\gamer-migration\\projeto-gamer-tarde\\wwwroot\\img\\Equipes\\ibis.png",

@@ -83,15 +83,17 @@ namespace projeto_gamer_tarde.Controllers
         [Route("Cadastrar")]
         public IActionResult Cadastrar(IFormCollection form)
         {
-            Jogador novoJogador = new Jogador();
+             Jogador novoJogador = new Jogador();
 
-            novoJogador.Nome = form["Nome"].ToString();
-            novoJogador.Email = form["Email"].ToString();
-            novoJogador.Senha = form["Senha"].ToString();
-            novoJogador.IdEquipe = int.Parse(form["IdEquipe"].ToString());
+            novoJogador.IdEquipe = int.Parse(form["Equipe"]);
+            novoJogador.Equipe = c.Equipe.First(x => x.IdEquipe == int.Parse(form["Equipe"]));
+            novoJogador.Nome = form["JogadorNome"].ToString();
+            novoJogador.Email = form["JogadorEmail"].ToString();
+            novoJogador.Senha = form["JogadorSenha"].ToString();
 
             c.Jogador.Add(novoJogador);
             c.SaveChanges();
+
             return LocalRedirect("~/Jogador/Listar");
         }
 

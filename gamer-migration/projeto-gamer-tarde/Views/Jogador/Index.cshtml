@@ -4,7 +4,70 @@
     ViewData["Title"] = "Jogador";
 }
 
-<h2>Tela de Jogadores</h2>
+
+<link rel="stylesheet" href="~/css/jogadores.css">
+
+    <!-- MAIN -->
+        <!-- MAIN -->
+    <main>
+        <section class="container-grid cadastro-equipes">
+        @if (ViewBag.UserName != null)
+        {
+            <form method="post" action="@Url.Action("Cadastrar")" class="frm-cad-equipe" enctype="multipart/form-data">
+                <div class="cadequipe-titulo">
+                    <h1>Cadastro de Jogadores</h1>
+                    <hr>
+                </div>
+
+                <select class="campo-entrada" id="equipe-select" name="Equipe" required>
+                    <option style="background-color: black;" value="">Digite o nome da sua equipe</option>
+                    @foreach (Equipe equipe in ViewBag.Equipe)
+                    {
+                        <option style="background-color: black;" value="@equipe.IdEquipe">@equipe.Nome</option>
+                    }
+                </select>
+
+                <input class="campo-entrada" name="JogadorNome" type="text" id="nome-jogador" placeholder="Digite o nome do Jogador:" required>
+                <input class="campo-entrada" name="JogadorEmail" type="email" id="email-jogador" placeholder="Digite o Email do Jogador:" required>
+                <input class="campo-entrada" name="JogadorSenha" type="password" id="senha" placeholder="Digite a Senha:" required>
+                <button type="submit" asp-action="Cadastrar">Cadastrar</button>
+            </form>
+        }
+
+            <!-- TABELA CADASTRO DE EQUIPES -->
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nome</th>
+                        <th>Email</th>
+                        <th>Equipe</th>
+                        <th>&spades;</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var jogador in ViewBag.Jogador)
+                    {
+                        <tr>
+                            <td>@jogador.IdJogador</td>
+                            <td>@jogador.Nome</td>
+                            <td>@jogador.Email</td>
+                            <td>@jogador.Equipe.Nome</td>
+                            <td>
+                                <a asp-area="" asp-controller="jogador" asp-action="Editar"
+                                asp-route-id="@jogador.IdJogador">Editar </a>
+                                <a asp-area="" asp-controller="jogador" asp-action="Excluir"
+                                asp-route-id="@jogador.IdJogador">
+                                <img class="yellow-trash" src="~/assets/trash.png" alt=""> </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </section>
+    </main>
+
 
 @if (ViewBag.UserName == null)
 {
@@ -13,7 +76,17 @@
 else
 {
 
-    <form method="post" action="@Url.Action("Cadastrar")">
+
+
+
+
+
+
+
+
+
+
+    @* <form method="post" action="@Url.Action("Cadastrar")">
         <label for="">Nome</label>
         <input type="text" name="Nome">
 
@@ -65,5 +138,5 @@ else
                 </tr>
             }
         </tbody>
-    </table>
+    </table> *@
 }
