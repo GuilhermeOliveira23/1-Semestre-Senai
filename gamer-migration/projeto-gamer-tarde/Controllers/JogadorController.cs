@@ -60,24 +60,35 @@ namespace projeto_gamer_tarde.Controllers
         public IActionResult Atualizar(IFormCollection form)
         {
             Jogador novoJogador = new Jogador();
-            
             novoJogador.IdJogador = int.Parse(form["IdJogador"].ToString());
-            novoJogador.Nome = form["Nome"].ToString();
-            novoJogador.Email = form["Email"].ToString();
-            novoJogador.Senha = form["Senha"].ToString();
-            novoJogador.IdEquipe = int.Parse(form["IdEquipe"].ToString());
+            Jogador jogadorSelecionado = c.Jogador.First(x => x.IdJogador == novoJogador.IdJogador);
 
-            Jogador jogadorBuscado  = c.Jogador.First(j => j.IdJogador == novoJogador.IdJogador);
+            if (!string.IsNullOrEmpty(form["JogadorNome"].ToString()))
+            {
+                novoJogador.Nome = form["JogadorNome"].ToString();
+                jogadorSelecionado.Nome = novoJogador.Nome;
+            }
 
-            jogadorBuscado.Nome = novoJogador.Nome;
-            jogadorBuscado.Email = novoJogador.Email;
-            jogadorBuscado.Senha = novoJogador.Senha;
-            jogadorBuscado.IdEquipe = novoJogador.IdEquipe;
+            if (!string.IsNullOrEmpty(form["JogadorEmail"].ToString()))
+            {
+                novoJogador.Email = form["JogadorEmail"].ToString();
+                jogadorSelecionado.Email = novoJogador.Email;
+            }
 
-            c.Jogador.Update(jogadorBuscado);
+            if (string.IsNullOrEmpty(form["JogadorSenha"].ToString()))
+            {
+                novoJogador.Senha = form["JogadorSenha"].ToString();
+                jogadorSelecionado.Senha = novoJogador.Senha;
+            }
+
+            novoJogador.IdEquipe = int.Parse(form["Equipe"]);
+            jogadorSelecionado.IdEquipe = novoJogador.IdEquipe;
+            jogadorSelecionado.Equipe = c.Equipe.First(x => x.IdEquipe == jogadorSelecionado.IdEquipe);
+
+            c.Jogador.Update(jogadorSelecionado);
             c.SaveChanges();
-
             return LocalRedirect("~/Jogador/Listar");
+
         }
 
         [Route("Cadastrar")]

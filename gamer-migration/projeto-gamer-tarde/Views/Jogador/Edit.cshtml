@@ -3,10 +3,64 @@
 @{
     ViewData["Title"] = "Edit";
 }
+<link rel="stylesheet" href="~/css/jogadores.css">
 
-<h1>Edição de Jogadores</h1>
 
 
+
+ <main>
+
+        <section class="container-grid cadastro-equipes">
+            <form method="post" class="frm-cad-equipe" asp-action="@Url.Action("Atualizar")" enctype="multipart/form-data">
+            <input type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador">
+                <div class="cadequipe-titulo">
+                    <h1>Edição de Jogadores</h1>
+                    <hr>
+                </div>   
+                <select class="campo-entrada" id="equipe-select" name="Equipe" required>
+                    <option style="background-color: black;" value="@ViewBag.Jogador.IdEquipe">@ViewBag.Jogador.Equipe.Nome</option>
+                    @foreach (Equipe equipe in ViewBag.Equipe)
+                    {
+                        if (equipe.IdEquipe != @ViewBag.Jogador.IdEquipe){
+                        <option style="background-color: black;" value="@equipe.IdEquipe">@equipe.Nome</option> }
+                    }
+                </select>
+                
+                <input class="campo-entrada" name="JogadorNome" type="text" id="nome-jogador" placeholder="Digite o nome do Jogador:">
+                <input class="campo-entrada" name="JogadorEmail" type="email" id="email-jogador" placeholder="Digite o Email do Jogador:">
+                <input class="campo-entrada" name="JogadorSenha" type="password" id="senha" placeholder="Digite a Senha:">
+                <button type="submit" asp-action="Atualizar">Cadastrar</button>
+            </form>
+        </section>
+    </main>
+
+
+
+
+
+@* <table>
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nome</th>
+                        <th>Email</th>
+                        <th>Equipe</th>
+                        <th>&spades;</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var jogador in ViewBag.Jogador)
+                    {
+                        <tr>
+                            <td>@jogador.IdJogador</td>
+                            <td>@jogador.Nome</td>
+                            <td>@jogador.Email</td>
+                            <td>@jogador.Equipe.Nome</td>
+                           
+                        </tr>
+                    }
+                </tbody>
+            </table>
 
 
 
@@ -62,4 +116,4 @@ else
 
         <button type="submit">Atualizar</button>
     </form>
-}
+} *@
